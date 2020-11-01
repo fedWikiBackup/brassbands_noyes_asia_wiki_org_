@@ -1,0 +1,33 @@
+{
+  "title": "Brass Band Regensburg",
+  "story": [
+    {
+      "type": "factory",
+      "id": "3ceddb8e638c1cd2"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Brass Band Regensburg",
+        "story": []
+      },
+      "date": 1546886244212
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9201",
+      "date": 1585138770229
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ceddb8e638c1cd2"
+      },
+      "id": "3ceddb8e638c1cd2",
+      "type": "add",
+      "date": 1585138771885
+    }
+  ]
+}

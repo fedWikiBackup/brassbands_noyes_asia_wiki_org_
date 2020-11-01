@@ -1,0 +1,301 @@
+{
+  "title": "Videos by Band Group",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[Black Dyke Band]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "60102d446c4d5984",
+      "text": "[[Brass Band Schoonhoven]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fab102280e4c8dc7",
+      "text": "[[Brighouse And Rastrick]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "97ced28175eb4307",
+      "text": "[[Eikanger-Bjørsvik Musikklag]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5589005d37a4471f",
+      "text": "[[Grimethorpe Colliery Band]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6fed097557fbea1c",
+      "text": "[[The Chicago Staff Band of The Salvation Army]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "763637759058ffa7",
+      "text": "[[The International Staff Band of The Salvation Army]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c6c97695289c4e37",
+      "text": "[[The New York Staff Band of The Salvation Army]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "aa8f9f82815c91f1",
+      "text": "[[Yorkshire Building Society Band]]"
+    },
+    {
+      "type": "html",
+      "id": "b5080a9f5a70e4d1",
+      "text": "<hr>"
+    },
+    {
+      "type": "paragraph",
+      "id": "b783a09a293a37fc",
+      "text": "See -- [[Videos by Title]] -- [[Recent Changes]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Videos by Band Group",
+        "story": []
+      },
+      "date": 1505139785131
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Black Dyke Band]]"
+      },
+      "id": "05e2fa92643677ca",
+      "date": 1505139791701
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "763637759058ffa7",
+        "text": "[[The International Staff Band of The Salvation Army]]"
+      },
+      "after": "05e2fa92643677ca",
+      "id": "763637759058ffa7",
+      "date": 1505139797667
+    },
+    {
+      "type": "add",
+      "id": "c6c97695289c4e37",
+      "item": {
+        "type": "paragraph",
+        "id": "c6c97695289c4e37",
+        "text": "[[The New York Staff Band of the Salvation Army]]"
+      },
+      "after": "763637759058ffa7",
+      "date": 1505140537971
+    },
+    {
+      "type": "add",
+      "id": "6fed097557fbea1c",
+      "item": {
+        "type": "paragraph",
+        "id": "6fed097557fbea1c",
+        "text": "[[The Chicago Staff Band of The Salvation Army]]"
+      },
+      "after": "c6c97695289c4e37",
+      "date": 1505140934948
+    },
+    {
+      "type": "edit",
+      "id": "c6c97695289c4e37",
+      "item": {
+        "type": "paragraph",
+        "id": "c6c97695289c4e37",
+        "text": "[[The New York Staff Band of The Salvation Army]]"
+      },
+      "date": 1505140948136
+    },
+    {
+      "type": "add",
+      "id": "aa8f9f82815c91f1",
+      "item": {
+        "type": "paragraph",
+        "id": "aa8f9f82815c91f1",
+        "text": "[[Yorkshire Building Society Band]]"
+      },
+      "after": "6fed097557fbea1c",
+      "date": 1505141329711
+    },
+    {
+      "type": "move",
+      "order": [
+        "05e2fa92643677ca",
+        "6fed097557fbea1c",
+        "763637759058ffa7",
+        "c6c97695289c4e37",
+        "aa8f9f82815c91f1"
+      ],
+      "id": "6fed097557fbea1c",
+      "date": 1505141337183
+    },
+    {
+      "type": "add",
+      "id": "5589005d37a4471f",
+      "item": {
+        "type": "paragraph",
+        "id": "5589005d37a4471f",
+        "text": "[[Grimethorpe Colliery Band]]"
+      },
+      "after": "aa8f9f82815c91f1",
+      "date": 1505142107931
+    },
+    {
+      "type": "move",
+      "order": [
+        "05e2fa92643677ca",
+        "5589005d37a4471f",
+        "6fed097557fbea1c",
+        "763637759058ffa7",
+        "c6c97695289c4e37",
+        "aa8f9f82815c91f1"
+      ],
+      "id": "5589005d37a4471f",
+      "date": 1505142111862
+    },
+    {
+      "type": "add",
+      "id": "b5080a9f5a70e4d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b5080a9f5a70e4d1",
+        "text": "See -- [[Videos by Title]]"
+      },
+      "after": "aa8f9f82815c91f1",
+      "date": 1505142481275
+    },
+    {
+      "type": "edit",
+      "id": "b5080a9f5a70e4d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b5080a9f5a70e4d1",
+        "text": "<hr>"
+      },
+      "date": 1505142499838
+    },
+    {
+      "type": "edit",
+      "id": "b5080a9f5a70e4d1",
+      "item": {
+        "type": "html",
+        "id": "b5080a9f5a70e4d1",
+        "text": "<hr>"
+      },
+      "date": 1505142505019
+    },
+    {
+      "type": "add",
+      "id": "b783a09a293a37fc",
+      "item": {
+        "type": "paragraph",
+        "id": "b783a09a293a37fc",
+        "text": "See -- [[Videos by Title]]"
+      },
+      "after": "b5080a9f5a70e4d1",
+      "date": 1505142507023
+    },
+    {
+      "type": "edit",
+      "id": "b783a09a293a37fc",
+      "item": {
+        "type": "paragraph",
+        "id": "b783a09a293a37fc",
+        "text": "See -- [[Videos by Title]] -- [[Recent Changes]]"
+      },
+      "date": 1505142542514
+    },
+    {
+      "type": "add",
+      "id": "97ced28175eb4307",
+      "item": {
+        "type": "paragraph",
+        "id": "97ced28175eb4307",
+        "text": "[["
+      },
+      "after": "aa8f9f82815c91f1",
+      "date": 1514254373687
+    },
+    {
+      "type": "edit",
+      "id": "97ced28175eb4307",
+      "item": {
+        "type": "paragraph",
+        "id": "97ced28175eb4307",
+        "text": "[[Eikanger-Bjørsvik Musikklag]]"
+      },
+      "date": 1514254413688
+    },
+    {
+      "type": "add",
+      "id": "fab102280e4c8dc7",
+      "item": {
+        "type": "paragraph",
+        "id": "fab102280e4c8dc7",
+        "text": "[[Brighouse And Rastrick]]"
+      },
+      "after": "97ced28175eb4307",
+      "date": 1514256824856
+    },
+    {
+      "type": "move",
+      "order": [
+        "05e2fa92643677ca",
+        "fab102280e4c8dc7",
+        "5589005d37a4471f",
+        "6fed097557fbea1c",
+        "763637759058ffa7",
+        "c6c97695289c4e37",
+        "aa8f9f82815c91f1",
+        "97ced28175eb4307",
+        "b5080a9f5a70e4d1",
+        "b783a09a293a37fc"
+      ],
+      "id": "fab102280e4c8dc7",
+      "date": 1514256863589
+    },
+    {
+      "type": "move",
+      "order": [
+        "05e2fa92643677ca",
+        "fab102280e4c8dc7",
+        "97ced28175eb4307",
+        "5589005d37a4471f",
+        "6fed097557fbea1c",
+        "763637759058ffa7",
+        "c6c97695289c4e37",
+        "aa8f9f82815c91f1",
+        "b5080a9f5a70e4d1",
+        "b783a09a293a37fc"
+      ],
+      "id": "97ced28175eb4307",
+      "date": 1514256869816
+    },
+    {
+      "type": "add",
+      "id": "60102d446c4d5984",
+      "item": {
+        "type": "paragraph",
+        "id": "60102d446c4d5984",
+        "text": "[[Brass Band Schoonhoven]]"
+      },
+      "after": "05e2fa92643677ca",
+      "date": 1585137004797
+    }
+  ]
+}

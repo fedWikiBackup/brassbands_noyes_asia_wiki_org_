@@ -1,0 +1,46 @@
+{
+  "title": "Fireplaces",
+  "story": [
+    {
+      "type": "video",
+      "id": "fe48f4adf201f64a",
+      "text": "YOUTUBE mkFVVQrA2ys\nChristmas Fireplac"
+    },
+    {
+      "type": "video",
+      "id": "1d469dfbb43e6a24",
+      "text": "YOUTUBE Ye2gMvRa-iE\nQuiet by the Fireplace"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fireplaces",
+        "story": []
+      },
+      "date": 1513957808945
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "fe48f4adf201f64a",
+        "text": "YOUTUBE mkFVVQrA2ys\nChristmas Fireplac"
+      },
+      "id": "fe48f4adf201f64a",
+      "date": 1513957831609
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "1d469dfbb43e6a24",
+        "text": "YOUTUBE Ye2gMvRa-iE\nQuiet by the Fireplace"
+      },
+      "after": "fe48f4adf201f64a",
+      "id": "1d469dfbb43e6a24",
+      "date": 1513957836956
+    }
+  ]
+}

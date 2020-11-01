@@ -1,0 +1,74 @@
+{
+  "title": "Vitae Aeternum - New York Staff Band of The Salvation Army",
+  "story": [
+    {
+      "type": "video",
+      "id": "25d7bd7436d0e72a",
+      "text": "YOUTUBE 2i5Y4ZSbrfw\nVitae Aeternum - Conducted by Paul Lovatt-Cooper"
+    },
+    {
+      "type": "paragraph",
+      "id": "f3d257d2cbbb15dc",
+      "text": "Paul Lovatt-Cooper is honored as the 33rd Annual Profile Night guest, and conducts The New York Staff Band and the Greater New York Youth Band and Chorus in \"Vitae Aeternum\" (Paul Lovatt-Cooper) at The Salvation Army's Centennial Memorial Temple in New York City on March 4, 2012."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Vitae Aeternum - New York Staff Band of The Salvation Army",
+        "story": []
+      },
+      "date": 1505140664245
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25d7bd7436d0e72a"
+      },
+      "id": "25d7bd7436d0e72a",
+      "type": "add",
+      "date": 1505140667451
+    },
+    {
+      "type": "edit",
+      "id": "25d7bd7436d0e72a",
+      "item": {
+        "type": "video",
+        "id": "25d7bd7436d0e72a",
+        "text": "YOUTUBE "
+      },
+      "date": 1505140692928
+    },
+    {
+      "type": "edit",
+      "id": "25d7bd7436d0e72a",
+      "item": {
+        "type": "video",
+        "id": "25d7bd7436d0e72a",
+        "text": "YOUTUBE 2i5Y4ZSbrfw\nVitae Aeternum - Conducted by Paul Lovatt-Cooper"
+      },
+      "date": 1505140751469
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3d257d2cbbb15dc"
+      },
+      "id": "f3d257d2cbbb15dc",
+      "type": "add",
+      "after": "25d7bd7436d0e72a",
+      "date": 1505140772381
+    },
+    {
+      "type": "edit",
+      "id": "f3d257d2cbbb15dc",
+      "item": {
+        "type": "paragraph",
+        "id": "f3d257d2cbbb15dc",
+        "text": "Paul Lovatt-Cooper is honored as the 33rd Annual Profile Night guest, and conducts The New York Staff Band and the Greater New York Youth Band and Chorus in \"Vitae Aeternum\" (Paul Lovatt-Cooper) at The Salvation Army's Centennial Memorial Temple in New York City on March 4, 2012."
+      },
+      "date": 1505140792887
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "podcast audios",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "67d1d12d3cdd454c",
+      "text": "[[Barcelona Symphony Brass Band]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "podcast audios",
+        "story": []
+      },
+      "date": 1505761889157
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bbafce0eb800f9eb"
+      },
+      "id": "bbafce0eb800f9eb",
+      "type": "add",
+      "date": 1505761896476
+    },
+    {
+      "type": "edit",
+      "id": "bbafce0eb800f9eb",
+      "item": {
+        "type": "factory",
+        "id": "bbafce0eb800f9eb",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "name": "BBC Radio 3 - Through the Night, Johan de Meij with the Barcelona Symphony Brass Band.URL",
+          "type": "",
+          "size": 223,
+          "lastModified": 1505761704943,
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0"
+        }
+      },
+      "date": 1505761901583
+    },
+    {
+      "type": "remove",
+      "id": "bbafce0eb800f9eb",
+      "date": 1505761907876
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b9161b8bbd68e2d1"
+      },
+      "id": "b9161b8bbd68e2d1",
+      "type": "add",
+      "date": 1505761933862
+    },
+    {
+      "type": "edit",
+      "id": "b9161b8bbd68e2d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b9161b8bbd68e2d1",
+        "text": "[http://www.bbc.co.uk/programmes/b0949f26 "
+      },
+      "date": 1505761950537
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9e23a5b16b295e38"
+      },
+      "id": "9e23a5b16b295e38",
+      "type": "add",
+      "after": "b9161b8bbd68e2d1",
+      "date": 1505761981646
+    },
+    {
+      "type": "remove",
+      "id": "9e23a5b16b295e38",
+      "date": 1505762005353
+    },
+    {
+      "type": "edit",
+      "id": "b9161b8bbd68e2d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b9161b8bbd68e2d1",
+        "text": "[http://www.bbc.co.uk/programmes/b0949f26 Johan de Meij with the Barcelona Symphony Brass Band\nThrough the Night\n\nJonathan Swain presents a concert of brass band music from Barcelona, including a trombone concerto by Johan de Meij, and highlights from Riverdance]"
+      },
+      "date": 1505762012798
+    },
+    {
+      "type": "edit",
+      "id": "b9161b8bbd68e2d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b9161b8bbd68e2d1",
+        "text": "[http://www.bbc.co.uk/programmes/b0949f26 Johan de Meij with the Barcelona Symphony Brass Band\nThrough the Night]\n\nJonathan Swain presents a concert of brass band music from Barcelona, including a trombone concerto by Johan de Meij, and highlights from Riverdance]"
+      },
+      "date": 1505762031121
+    },
+    {
+      "type": "edit",
+      "id": "b9161b8bbd68e2d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b9161b8bbd68e2d1",
+        "text": "[http://www.bbc.co.uk/programmes/b0949f26 Johan de Meij with the Barcelona Symphony Brass Band Through the Night]"
+      },
+      "date": 1505762102304
+    },
+    {
+      "type": "add",
+      "id": "67d1d12d3cdd454c",
+      "item": {
+        "type": "paragraph",
+        "id": "67d1d12d3cdd454c",
+        "text": "[[Barcelona Symphony Brass Band]]"
+      },
+      "after": "b9161b8bbd68e2d1",
+      "date": 1505762141724
+    },
+    {
+      "type": "remove",
+      "id": "b9161b8bbd68e2d1",
+      "date": 1505762149087
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Concord",
+  "story": [
+    {
+      "type": "video",
+      "id": "4cd7215fe67acad2",
+      "text": "YOUTUBE 31512HCkNf4\nConcord Brass Band"
+    },
+    {
+      "type": "paragraph",
+      "id": "815799dda765000b",
+      "text": "Composer: Kevin Houben\nConductor: Jesper Juul Windahl\nVideo: World of Brass"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Concord",
+        "story": []
+      },
+      "date": 1582158808266
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4cd7215fe67acad2"
+      },
+      "id": "4cd7215fe67acad2",
+      "type": "add",
+      "date": 1582158811308
+    },
+    {
+      "type": "edit",
+      "id": "4cd7215fe67acad2",
+      "item": {
+        "type": "video",
+        "id": "4cd7215fe67acad2",
+        "text": "YOUTUBE 31512HCkNf4\nConcord Brass Band"
+      },
+      "date": 1582158881084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "815799dda765000b"
+      },
+      "id": "815799dda765000b",
+      "type": "add",
+      "after": "4cd7215fe67acad2",
+      "date": 1582158935738
+    },
+    {
+      "type": "edit",
+      "id": "815799dda765000b",
+      "item": {
+        "type": "paragraph",
+        "id": "815799dda765000b",
+        "text": "Composer: Kevin Houben\nConductor: Jesper Juul Windahl\nVideo: World of Brass"
+      },
+      "date": 1582158942288
+    }
+  ]
+}

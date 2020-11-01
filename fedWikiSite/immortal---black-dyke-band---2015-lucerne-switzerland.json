@@ -1,0 +1,30 @@
+{
+  "title": "Immortal - Black Dyke Band - 2015 Lucerne Switzerland",
+  "story": [
+    {
+      "type": "video",
+      "id": "d833275d6a9b3956",
+      "text": "YOUTUBE 7_jizDMnz3Q\nImmortal -- Lucerne Switzerland\n\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Immortal - Black Dyke Band - 2015 Lucerne Switzerland",
+        "story": []
+      },
+      "date": 1505136468681
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "d833275d6a9b3956",
+        "text": "YOUTUBE 7_jizDMnz3Q\nImmortal -- Lucerne Switzerland\n\n"
+      },
+      "id": "d833275d6a9b3956",
+      "date": 1505136477079
+    }
+  ]
+}

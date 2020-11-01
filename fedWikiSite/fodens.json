@@ -1,0 +1,99 @@
+{
+  "title": "Foden's",
+  "story": [
+    {
+      "type": "html",
+      "id": "f73031af8de9af6c",
+      "text": "Foden's <b>World Ranking 011</b>\n[http://fodensband.co.uk Brass Band Cheshire - World Famous Foden's Band]\nFoden's Brass Band is based in Cheshire, UK and is currently ranked as one of the finest brass bands in the world.  The band has won many awards over it's 100 year plus history including the National Brass Band Championships of Great Britain 12 times and the British Open Championships 11 times.  The band are world renowned for playing of the higest quality and perform regularly for audiences across the UK and world wide.\n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Foden's",
+        "story": []
+      },
+      "date": 1505765351358
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f73031af8de9af6c"
+      },
+      "id": "f73031af8de9af6c",
+      "type": "add",
+      "date": 1582158675081
+    },
+    {
+      "type": "edit",
+      "id": "f73031af8de9af6c",
+      "item": {
+        "type": "paragraph",
+        "id": "f73031af8de9af6c",
+        "text": "Foden's <b>World Ranking 011</b> -- (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. \n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+      },
+      "date": 1585139010394
+    },
+    {
+      "type": "edit",
+      "id": "f73031af8de9af6c",
+      "item": {
+        "type": "html",
+        "id": "f73031af8de9af6c",
+        "text": "Foden's <b>World Ranking 011</b> -- (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. \n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+      },
+      "date": 1585139025530
+    },
+    {
+      "type": "edit",
+      "id": "f73031af8de9af6c",
+      "item": {
+        "type": "html",
+        "id": "f73031af8de9af6c",
+        "text": "Foden's <b>World Ranking 011</b>\nBrass Band Cheshire : World Famous Foden's Band\nwww.fodensband.co.uk\nFoden's Brass Band is based in Cheshire, UK and is currently ranked as one of the finest brass bands in the world. The band has won many awards over it's 100 ... \n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+      },
+      "date": 1585139151702
+    },
+    {
+      "type": "edit",
+      "id": "f73031af8de9af6c",
+      "item": {
+        "type": "html",
+        "id": "f73031af8de9af6c",
+        "text": "Foden's <b>World Ranking 011</b>\n[http:fodensband.co.uk Brass Band Cheshire : World Famous Foden's Band]\nFoden's Brass Band is based in Cheshire, UK and is currently ranked as one of the finest brass bands in the world. The band has won many awards over it's 100 ... \n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+      },
+      "date": 1585139196557
+    },
+    {
+      "type": "edit",
+      "id": "f73031af8de9af6c",
+      "item": {
+        "type": "html",
+        "id": "f73031af8de9af6c",
+        "text": "Foden's <b>World Ranking 011</b>\n[http:fodensband.co.uk Brass Band Cheshire - World Famous Foden's Band]\nFoden's Brass Band is based in Cheshire, UK and is currently ranked as one of the finest brass bands in the world. The band has won many awards over it's 100 ... \n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+      },
+      "date": 1585139243503
+    },
+    {
+      "type": "edit",
+      "id": "f73031af8de9af6c",
+      "item": {
+        "type": "html",
+        "id": "f73031af8de9af6c",
+        "text": "Foden's <b>World Ranking 011</b>\n[http://fodensband.co.uk Brass Band Cheshire - World Famous Foden's Band]\nFoden's Brass Band is based in Cheshire, UK and is currently ranked as one of the finest brass bands in the world. The band has won many awards over it's 100 ... \n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+      },
+      "date": 1585139282422
+    },
+    {
+      "type": "edit",
+      "id": "f73031af8de9af6c",
+      "item": {
+        "type": "html",
+        "id": "f73031af8de9af6c",
+        "text": "Foden's <b>World Ranking 011</b>\n[http://fodensband.co.uk Brass Band Cheshire - World Famous Foden's Band]\nFoden's Brass Band is based in Cheshire, UK and is currently ranked as one of the finest brass bands in the world.  The band has won many awards over it's 100 year plus history including the National Brass Band Championships of Great Britain 12 times and the British Open Championships 11 times.  The band are world renowned for playing of the higest quality and perform regularly for audiences across the UK and world wide.\n\n<hr>011 \t[[Foden's]] \tNorway \t358.93\n<hr> "
+      },
+      "date": 1585139325389
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "The New York Staff Band of the Salvation Army",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ec897f030622b3ac",
+      "text": "[[Vitae Aeternum - New York Staff Band of The Salvation Army]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The New York Staff Band of the Salvation Army",
+        "story": []
+      },
+      "date": 1505140566380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f11734aafc327c88"
+      },
+      "id": "f11734aafc327c88",
+      "type": "add",
+      "date": 1505140568328
+    },
+    {
+      "type": "edit",
+      "id": "f11734aafc327c88",
+      "item": {
+        "type": "video",
+        "id": "f11734aafc327c88",
+        "text": "[[Vitae Aeternum - New York Staff Band of The Salvation Army]]"
+      },
+      "date": 1505140630817
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec897f030622b3ac"
+      },
+      "id": "ec897f030622b3ac",
+      "type": "add",
+      "after": "f11734aafc327c88",
+      "date": 1505140652963
+    },
+    {
+      "type": "remove",
+      "id": "f11734aafc327c88",
+      "date": 1505140655439
+    },
+    {
+      "type": "edit",
+      "id": "ec897f030622b3ac",
+      "item": {
+        "type": "paragraph",
+        "id": "ec897f030622b3ac",
+        "text": "[[Vitae Aeternum - New York Staff Band of The Salvation Army]]"
+      },
+      "date": 1505140659809
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "title": "Christmas 2017",
+  "story": [
+    {
+      "type": "html",
+      "id": "cdf9b9c070672550",
+      "text": "<b>Chistmas Comfort Zone"
+    },
+    {
+      "type": "paragraph",
+      "id": "94647e8c35ebbe74",
+      "text": "[[Fireplaces]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf401caf39214af6",
+      "text": "[[Christmas Brass]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ccb62cacc99e6b0b",
+      "text": "[[Christmas Music]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Christmas 2017",
+        "story": []
+      },
+      "date": 1513957899257
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bf401caf39214af6",
+        "text": "[[Christmas Brass]], [[Christmas Music]] and [[Fireplaces]]"
+      },
+      "id": "bf401caf39214af6",
+      "date": 1513957903918
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cdf9b9c070672550"
+      },
+      "id": "cdf9b9c070672550",
+      "type": "add",
+      "after": "bf401caf39214af6",
+      "date": 1513957916269
+    },
+    {
+      "type": "edit",
+      "id": "cdf9b9c070672550",
+      "item": {
+        "type": "paragraph",
+        "id": "cdf9b9c070672550",
+        "text": "Chistmas Comfort Zone"
+      },
+      "date": 1513957933121
+    },
+    {
+      "type": "move",
+      "order": [
+        "cdf9b9c070672550",
+        "bf401caf39214af6"
+      ],
+      "id": "cdf9b9c070672550",
+      "date": 1513957936693
+    },
+    {
+      "type": "edit",
+      "id": "cdf9b9c070672550",
+      "item": {
+        "type": "paragraph",
+        "id": "cdf9b9c070672550",
+        "text": "<b>Chistmas Comfort Zone"
+      },
+      "date": 1513957953824
+    },
+    {
+      "type": "edit",
+      "id": "cdf9b9c070672550",
+      "item": {
+        "type": "html",
+        "id": "cdf9b9c070672550",
+        "text": "<b>Chistmas Comfort Zone"
+      },
+      "date": 1513957960203
+    },
+    {
+      "type": "edit",
+      "id": "bf401caf39214af6",
+      "item": {
+        "type": "paragraph",
+        "id": "bf401caf39214af6",
+        "text": "[[Christmas Brass]]"
+      },
+      "date": 1513957974189
+    },
+    {
+      "type": "add",
+      "id": "ccb62cacc99e6b0b",
+      "item": {
+        "type": "paragraph",
+        "id": "ccb62cacc99e6b0b",
+        "text": "[[Christmas Music]]"
+      },
+      "after": "bf401caf39214af6",
+      "date": 1513957978813
+    },
+    {
+      "type": "add",
+      "id": "94647e8c35ebbe74",
+      "item": {
+        "type": "paragraph",
+        "id": "94647e8c35ebbe74",
+        "text": "[[Fireplaces]]"
+      },
+      "after": "ccb62cacc99e6b0b",
+      "date": 1513957981412
+    },
+    {
+      "type": "move",
+      "order": [
+        "cdf9b9c070672550",
+        "94647e8c35ebbe74",
+        "bf401caf39214af6",
+        "ccb62cacc99e6b0b"
+      ],
+      "id": "94647e8c35ebbe74",
+      "date": 1513957998065
+    }
+  ]
+}

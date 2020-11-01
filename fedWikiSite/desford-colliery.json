@@ -1,0 +1,28 @@
+{
+  "title": "Desford Colliery",
+  "story": [
+    {
+      "type": "factory",
+      "id": "e7f1a21da781caed"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Desford Colliery",
+        "story": []
+      },
+      "date": 1505765448483
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7f1a21da781caed"
+      },
+      "id": "e7f1a21da781caed",
+      "type": "add",
+      "date": 1582158731590
+    }
+  ]
+}

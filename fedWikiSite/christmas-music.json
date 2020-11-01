@@ -1,0 +1,125 @@
+{
+  "title": "Christmas Music",
+  "story": [
+    {
+      "type": "video",
+      "id": "985b6e19613a3f39",
+      "text": "YOUTUBE NzSrbYDifYg\nCarols - Vienna Boys Choir"
+    },
+    {
+      "type": "video",
+      "id": "669e96e83faf2db0",
+      "text": "YOUTUBE tz0cXMZyDRg\nSoft and Gentle - Guitar Christmas"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Christmas Music",
+        "story": []
+      },
+      "date": 1513957238634
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "985b6e19613a3f39",
+        "text": "YOUTUBE NzSrbYDifYg\nNot Brass - but rather carols - Vienna Boys Choir"
+      },
+      "id": "985b6e19613a3f39",
+      "date": 1513957247133
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "669e96e83faf2db0"
+      },
+      "id": "669e96e83faf2db0",
+      "type": "add",
+      "after": "985b6e19613a3f39",
+      "date": 1513957304306
+    },
+    {
+      "type": "edit",
+      "id": "669e96e83faf2db0",
+      "item": {
+        "type": "video",
+        "id": "669e96e83faf2db0",
+        "text": "YOUTUBE tz0cXMZyDRg\nSoft and Gentle - Guitar Christmas"
+      },
+      "date": 1513957346131
+    },
+    {
+      "type": "edit",
+      "id": "985b6e19613a3f39",
+      "item": {
+        "type": "video",
+        "id": "985b6e19613a3f39",
+        "text": "YOUTUBE NzSrbYDifYg\nCarols - Vienna Boys Choir"
+      },
+      "date": 1513957368550
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe48f4adf201f64a"
+      },
+      "id": "fe48f4adf201f64a",
+      "type": "add",
+      "after": "669e96e83faf2db0",
+      "date": 1513957408290
+    },
+    {
+      "type": "edit",
+      "id": "fe48f4adf201f64a",
+      "item": {
+        "type": "video",
+        "id": "fe48f4adf201f64a",
+        "text": "YOUTUBE mkFVVQrA2ys\nChristmas Fireplac"
+      },
+      "date": 1513957448018
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d469dfbb43e6a24"
+      },
+      "id": "1d469dfbb43e6a24",
+      "type": "add",
+      "after": "fe48f4adf201f64a",
+      "date": 1513957526441
+    },
+    {
+      "type": "edit",
+      "id": "1d469dfbb43e6a24",
+      "item": {
+        "type": "video",
+        "id": "1d469dfbb43e6a24",
+        "text": "YOUTUBE Ye2gMvRa-iE\nHallmark - Yule Log - Christmas Music"
+      },
+      "date": 1513957569103
+    },
+    {
+      "type": "edit",
+      "id": "1d469dfbb43e6a24",
+      "item": {
+        "type": "video",
+        "id": "1d469dfbb43e6a24",
+        "text": "YOUTUBE Ye2gMvRa-iE\nQuiet by the Fireplace"
+      },
+      "date": 1513957664076
+    },
+    {
+      "type": "remove",
+      "id": "fe48f4adf201f64a",
+      "date": 1513957831606
+    },
+    {
+      "type": "remove",
+      "id": "1d469dfbb43e6a24",
+      "date": 1513957836954
+    }
+  ]
+}

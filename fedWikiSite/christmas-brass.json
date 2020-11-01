@@ -1,0 +1,233 @@
+{
+  "title": "Christmas Brass",
+  "story": [
+    {
+      "type": "video",
+      "id": "7fcfc9d4ec981daf",
+      "text": "YOUTUBE WVmElNw-UMo\nChristmas Music heard 20171222"
+    },
+    {
+      "type": "video",
+      "id": "52c43a1078b6a881",
+      "text": "YOUTUBE esJ7syX4deI\nChristmas Carols - The Salvation Army"
+    },
+    {
+      "type": "video",
+      "id": "a0e70a1f9f8f5274",
+      "text": "YOUTUBE Y6hpO4TpGAY\nMore Salvation Army -- Christmas Wonder"
+    },
+    {
+      "type": "paragraph",
+      "id": "049bb80ca567b9a1",
+      "text": "The Other Things - [[Christmas Music]] and Fireplaces"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Christmas Brass",
+        "story": []
+      },
+      "date": 1513956336177
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "7fcfc9d4ec981daf",
+        "text": "YOUTUBE WVmElNw-UMo\nChristmas Music heard 20171222"
+      },
+      "id": "7fcfc9d4ec981daf",
+      "type": "add",
+      "date": 1513956338786
+    },
+    {
+      "type": "edit",
+      "id": "7fcfc9d4ec981daf",
+      "item": {
+        "type": "video",
+        "id": "7fcfc9d4ec981daf",
+        "text": "YOUTUBE WVmElNw-UMo\nChristmas Music heard 20171222"
+      },
+      "date": 1513956378736
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "5b920fa934b219e2",
+        "text": ""
+      },
+      "id": "5b920fa934b219e2",
+      "type": "add",
+      "after": "7fcfc9d4ec981daf",
+      "date": 1513956409556
+    },
+    {
+      "type": "remove",
+      "id": "5b920fa934b219e2",
+      "date": 1513956417223
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "46642cf62979c216",
+        "text": "YOUTUBE Bpn3eCpPCc8\nCanadian Brass"
+      },
+      "id": "46642cf62979c216",
+      "type": "add",
+      "after": "7fcfc9d4ec981daf",
+      "date": 1513956419946
+    },
+    {
+      "type": "edit",
+      "id": "46642cf62979c216",
+      "item": {
+        "type": "video",
+        "id": "46642cf62979c216",
+        "text": "YOUTUBE Bpn3eCpPCc8\nCanadian Brass"
+      },
+      "date": 1513956454299
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "52c43a1078b6a881",
+        "text": "YOUTUBE esJ7syX4deI\nChristmas Carols - The Salvation Army"
+      },
+      "id": "52c43a1078b6a881",
+      "type": "add",
+      "after": "46642cf62979c216",
+      "date": 1513956592796
+    },
+    {
+      "type": "edit",
+      "id": "52c43a1078b6a881",
+      "item": {
+        "type": "video",
+        "id": "52c43a1078b6a881",
+        "text": "YOUTUBE esJ7syX4deI\nChristmas Carols - The Salvation Army"
+      },
+      "date": 1513956632320
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "a0e70a1f9f8f5274",
+        "text": "YOUTUBE Y6hpO4TpGAY\nMore Salvation Army -- Christmas Wonder"
+      },
+      "id": "a0e70a1f9f8f5274",
+      "type": "add",
+      "after": "52c43a1078b6a881",
+      "date": 1513956769940
+    },
+    {
+      "type": "edit",
+      "id": "a0e70a1f9f8f5274",
+      "item": {
+        "type": "video",
+        "id": "a0e70a1f9f8f5274",
+        "text": "YOUTUBE Y6hpO4TpGAY\nMore Salvation Army -- Christmas Wonder"
+      },
+      "date": 1513956804269
+    },
+    {
+      "type": "edit",
+      "id": "a0e70a1f9f8f5274",
+      "item": {
+        "type": "video",
+        "id": "a0e70a1f9f8f5274",
+        "text": "YOUTUBE Y6hpO4TpGAY\nMore Salvation Army -- Christmas Wonder"
+      },
+      "date": 1513956828140
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "985b6e19613a3f39",
+        "text": "YOUTUBE NzSrbYDifYg\nNot Brass - but rather carols - Vienna Boys Choir"
+      },
+      "id": "985b6e19613a3f39",
+      "type": "add",
+      "after": "a0e70a1f9f8f5274",
+      "date": 1513956954707
+    },
+    {
+      "type": "edit",
+      "id": "985b6e19613a3f39",
+      "item": {
+        "type": "video",
+        "id": "985b6e19613a3f39",
+        "text": "YOUTUBE NzSrbYDifYg\nNot Brass - but rather carols - Vienna Boys Choir"
+      },
+      "date": 1513957005050
+    },
+    {
+      "type": "move",
+      "order": [
+        "7fcfc9d4ec981daf",
+        "985b6e19613a3f39",
+        "46642cf62979c216",
+        "52c43a1078b6a881",
+        "a0e70a1f9f8f5274"
+      ],
+      "id": "985b6e19613a3f39",
+      "date": 1513957031805
+    },
+    {
+      "type": "move",
+      "order": [
+        "985b6e19613a3f39",
+        "46642cf62979c216",
+        "7fcfc9d4ec981daf",
+        "52c43a1078b6a881",
+        "a0e70a1f9f8f5274"
+      ],
+      "id": "7fcfc9d4ec981daf",
+      "date": 1513957037899
+    },
+    {
+      "type": "fork",
+      "date": 1513957061385
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "049bb80ca567b9a1"
+      },
+      "id": "049bb80ca567b9a1",
+      "type": "add",
+      "after": "a0e70a1f9f8f5274",
+      "date": 1513957188280
+    },
+    {
+      "type": "edit",
+      "id": "049bb80ca567b9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "049bb80ca567b9a1",
+        "text": "The Other Things - [[Christmas Music]]"
+      },
+      "date": 1513957234092
+    },
+    {
+      "type": "remove",
+      "id": "985b6e19613a3f39",
+      "date": 1513957247130
+    },
+    {
+      "type": "edit",
+      "id": "049bb80ca567b9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "049bb80ca567b9a1",
+        "text": "The Other Things - [[Christmas Music]] and Fireplaces"
+      },
+      "date": 1513957699717
+    },
+    {
+      "type": "remove",
+      "id": "46642cf62979c216",
+      "date": 1585139667645
+    }
+  ]
+}

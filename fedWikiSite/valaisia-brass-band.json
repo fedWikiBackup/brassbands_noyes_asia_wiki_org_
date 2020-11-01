@@ -1,0 +1,74 @@
+{
+  "title": "Valaisia Brass Band",
+  "story": [
+    {
+      "type": "video",
+      "id": "78263dfdfc74014e",
+      "text": "YOUTUBE 8e_uS_RAGhQ\n Harmony Music by Philip Sparke\n performed by \nValaisia Brass Band\nconducted by Arsène Duc\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "643bf3d30dfb1188",
+      "text": "<hr>World Ranking 007 \tB"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Valaisia Brass Band",
+        "story": []
+      },
+      "date": 1505765324917
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78263dfdfc74014e"
+      },
+      "id": "78263dfdfc74014e",
+      "type": "add",
+      "date": 1514256232646
+    },
+    {
+      "type": "edit",
+      "id": "78263dfdfc74014e",
+      "item": {
+        "type": "video",
+        "id": "78263dfdfc74014e",
+        "text": "YOUTUBE 8e_uS_RAGhQ"
+      },
+      "date": 1514256250174
+    },
+    {
+      "type": "edit",
+      "id": "78263dfdfc74014e",
+      "item": {
+        "type": "video",
+        "id": "78263dfdfc74014e",
+        "text": "YOUTUBE 8e_uS_RAGhQ\n Harmony Music by Philip Sparke\n performed by \nValaisia Brass Band\nconducted by Arsène Duc\n"
+      },
+      "date": 1514256339720
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "643bf3d30dfb1188"
+      },
+      "id": "643bf3d30dfb1188",
+      "type": "add",
+      "after": "78263dfdfc74014e",
+      "date": 1585138833150
+    },
+    {
+      "type": "edit",
+      "id": "643bf3d30dfb1188",
+      "item": {
+        "type": "paragraph",
+        "id": "643bf3d30dfb1188",
+        "text": "<hr>World Ranking 007 \tB"
+      },
+      "date": 1585138858325
+    }
+  ]
+}

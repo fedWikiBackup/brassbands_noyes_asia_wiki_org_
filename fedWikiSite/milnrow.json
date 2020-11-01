@@ -1,0 +1,28 @@
+{
+  "title": "Milnrow",
+  "story": [
+    {
+      "type": "factory",
+      "id": "3d95e3b766a3eb00"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Milnrow",
+        "story": []
+      },
+      "date": 1582158801227
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d95e3b766a3eb00"
+      },
+      "id": "3d95e3b766a3eb00",
+      "type": "add",
+      "date": 1582158802980
+    }
+  ]
+}

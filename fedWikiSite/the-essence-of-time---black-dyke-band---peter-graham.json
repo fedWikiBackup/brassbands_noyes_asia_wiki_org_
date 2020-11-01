@@ -1,0 +1,39 @@
+{
+  "title": "The Essence of Time - Black Dyke Band - Peter Graham",
+  "story": [
+    {
+      "type": "video",
+      "id": "97c7429e76fc0768",
+      "text": "YOUTUBE gLbYOor_NZ0\nThe Essence of Time"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Essence of Time - Black Dyke Band - Peter Graham",
+        "story": []
+      },
+      "date": 1505137718877
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97c7429e76fc0768"
+      },
+      "id": "97c7429e76fc0768",
+      "type": "add",
+      "date": 1505137724224
+    },
+    {
+      "type": "edit",
+      "id": "97c7429e76fc0768",
+      "item": {
+        "type": "video",
+        "id": "97c7429e76fc0768",
+        "text": "YOUTUBE gLbYOor_NZ0\nThe Essence of Time"
+      },
+      "date": 1505137757398
+    }
+  ]
+}

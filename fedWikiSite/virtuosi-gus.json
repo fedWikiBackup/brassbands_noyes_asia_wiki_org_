@@ -1,0 +1,28 @@
+{
+  "title": "Virtuosi GUS",
+  "story": [
+    {
+      "type": "factory",
+      "id": "a986ec76147f32de"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Virtuosi GUS",
+        "story": []
+      },
+      "date": 1505765365470
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a986ec76147f32de"
+      },
+      "id": "a986ec76147f32de",
+      "type": "add",
+      "date": 1582158680481
+    }
+  ]
+}

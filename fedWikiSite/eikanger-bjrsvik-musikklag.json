@@ -1,0 +1,104 @@
+{
+  "title": "Eikanger-Bjørsvik Musikklag",
+  "story": [
+    {
+      "type": "video",
+      "id": "83d929c2f566d513",
+      "text": "YOUTUBE RRAIWVRaTU4\nFraternity [Thierre Deleruyelle] - NM 2017"
+    },
+    {
+      "type": "video",
+      "id": "53d426ed63a47c66",
+      "text": "YOUTUBE inu0xdrI-_A\nTrittico - James Curnow - Eikanger-Bjoirsvik"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Eikanger-Bjørsvik Musikklag",
+        "story": []
+      },
+      "date": 1514254422250
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83d929c2f566d513"
+      },
+      "id": "83d929c2f566d513",
+      "type": "add",
+      "date": 1514254425287
+    },
+    {
+      "type": "edit",
+      "id": "83d929c2f566d513",
+      "item": {
+        "type": "video",
+        "id": "83d929c2f566d513",
+        "text": "YOUTUBE "
+      },
+      "date": 1514254442050
+    },
+    {
+      "type": "edit",
+      "id": "83d929c2f566d513",
+      "item": {
+        "type": "video",
+        "id": "83d929c2f566d513",
+        "text": "YOUTUBE RRAIWVRaTU4"
+      },
+      "date": 1514254468538
+    },
+    {
+      "type": "edit",
+      "id": "83d929c2f566d513",
+      "item": {
+        "type": "video",
+        "id": "83d929c2f566d513",
+        "text": "YOUTUBE RRAIWVRaTU4\nFraternity [Thierre Deleruyelle] - NM 2017"
+      },
+      "date": 1514254510046
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "53d426ed63a47c66"
+      },
+      "id": "53d426ed63a47c66",
+      "type": "add",
+      "after": "83d929c2f566d513",
+      "date": 1514254602138
+    },
+    {
+      "type": "edit",
+      "id": "53d426ed63a47c66",
+      "item": {
+        "type": "video",
+        "id": "53d426ed63a47c66",
+        "text": "YOUTUBE inu0xdrI-_A"
+      },
+      "date": 1514254623396
+    },
+    {
+      "type": "edit",
+      "id": "53d426ed63a47c66",
+      "item": {
+        "type": "video",
+        "id": "53d426ed63a47c66",
+        "text": "YOUTUBE inu0xdrI-_A\nTrittico - James Curnow - Eikanger"
+      },
+      "date": 1514254679682
+    },
+    {
+      "type": "edit",
+      "id": "53d426ed63a47c66",
+      "item": {
+        "type": "video",
+        "id": "53d426ed63a47c66",
+        "text": "YOUTUBE inu0xdrI-_A\nTrittico - James Curnow - Eikanger-Bjoirsvik"
+      },
+      "date": 1514254718293
+    }
+  ]
+}

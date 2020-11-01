@@ -1,0 +1,28 @@
+{
+  "title": "Leyland",
+  "story": [
+    {
+      "type": "factory",
+      "id": "78e718a50666b232"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Leyland",
+        "story": []
+      },
+      "date": 1505765434490
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78e718a50666b232"
+      },
+      "id": "78e718a50666b232",
+      "type": "add",
+      "date": 1582158722782
+    }
+  ]
+}

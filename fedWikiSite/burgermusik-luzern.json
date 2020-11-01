@@ -1,0 +1,28 @@
+{
+  "title": "Burgermusik Luzern",
+  "story": [
+    {
+      "type": "factory",
+      "id": "f95a8318ee67af40"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Burgermusik Luzern",
+        "story": []
+      },
+      "date": 1505765393602
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f95a8318ee67af40"
+      },
+      "id": "f95a8318ee67af40",
+      "type": "add",
+      "date": 1582158693511
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Buizingen",
+  "story": [
+    {
+      "type": "factory",
+      "id": "98486ef61fc232cd"
+    },
+    {
+      "type": "factory",
+      "id": "93c166e7099c062b"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Buizingen",
+        "story": []
+      },
+      "date": 1505765415373
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98486ef61fc232cd"
+      },
+      "id": "98486ef61fc232cd",
+      "type": "add",
+      "date": 1582158670681
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "93c166e7099c062b"
+      },
+      "id": "93c166e7099c062b",
+      "type": "add",
+      "after": "98486ef61fc232cd",
+      "date": 1582158708278
+    }
+  ]
+}

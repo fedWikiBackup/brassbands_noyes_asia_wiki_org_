@@ -1,0 +1,28 @@
+{
+  "title": "Hammonds Saltaire",
+  "story": [
+    {
+      "type": "factory",
+      "id": "9a7db5b01e9c4c44"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hammonds Saltaire",
+        "story": []
+      },
+      "date": 1582158779124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a7db5b01e9c4c44"
+      },
+      "id": "9a7db5b01e9c4c44",
+      "type": "add",
+      "date": 1582158780788
+    }
+  ]
+}

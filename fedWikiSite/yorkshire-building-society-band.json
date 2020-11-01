@@ -1,0 +1,49 @@
+{
+  "title": "Yorkshire Building Society Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "763ed6338bb2ed02",
+      "text": "[[Flowerdale -- Yorkshire Building Society Band - solo Philip Sparke]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Yorkshire Building Society Band",
+        "story": []
+      },
+      "date": 1505141375972
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "763ed6338bb2ed02"
+      },
+      "id": "763ed6338bb2ed02",
+      "type": "add",
+      "date": 1505141378311
+    },
+    {
+      "type": "edit",
+      "id": "763ed6338bb2ed02",
+      "item": {
+        "type": "paragraph",
+        "id": "763ed6338bb2ed02",
+        "text": "[[Flowerdale -- Yorkshire Building Society Band]]"
+      },
+      "date": 1505141426104
+    },
+    {
+      "type": "edit",
+      "id": "763ed6338bb2ed02",
+      "item": {
+        "type": "paragraph",
+        "id": "763ed6338bb2ed02",
+        "text": "[[Flowerdale -- Yorkshire Building Society Band - solo Philip Sparke]]"
+      },
+      "date": 1505142828503
+    }
+  ]
+}

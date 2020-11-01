@@ -1,0 +1,124 @@
+{
+  "title": "Song of Hope",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1a88c0b4ede4bfda",
+      "text": "Music=Hope Records was created to deliver the power of music to help fight cancer and all proceeds from the sales of the recording fund cancer research."
+    },
+    {
+      "type": "video",
+      "id": "7345d1cae16d8ccf",
+      "text": "YOUTUBE VnXadoWT1V0\nRyan Anthony, David Bilger and Michael Sachs perform as solo trumpets in Peter Meechan's moving SONG FOR HOPE, a work that Ryan Anthony wanted to include in the CancerBlows event in March 2015.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e0df76b94a2e9b7",
+      "text": "SONG FOR HOPE is available on iTunes, Spotify, HD Tracks and all digital download and streaming services\n\nRYAN'S STORY:\nRecorded in a studio session in front of a live audience, Ryan wanted to allow the audience a bit of a behind the scenes look into the recording process, while capturing this profound piece of music for the CancerBlows recording. \n\nMusic=Hope Records was created to deliver the power of music to help fight cancer and all proceeds from the sales of the recording fund cancer research."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Song of Hope",
+        "story": []
+      },
+      "date": 1585138332237
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "7345d1cae16d8ccf",
+        "text": "YOUTUBE VnXadoWT1V0\nRyan Anthony, David Bilger and Michael Sachs perform as solo trumpets in Peter Meechan's moving SONG FOR HOPE, a work that Ryan Anthony wanted to include in the CancerBlows event in March 2015.\n\n"
+      },
+      "id": "7345d1cae16d8ccf",
+      "type": "add",
+      "date": 1585138354302
+    },
+    {
+      "type": "edit",
+      "id": "7345d1cae16d8ccf",
+      "item": {
+        "type": "video",
+        "id": "7345d1cae16d8ccf",
+        "text": "YOUTUBE VnXadoWT1V0\nRyan Anthony, David Bilger and Michael Sachs perform as solo trumpets in Peter Meechan's moving SONG FOR HOPE, a work that Ryan Anthony wanted to include in the CancerBlows event in March 2015.\n\n"
+      },
+      "date": 1585138370853
+    },
+    {
+      "type": "edit",
+      "id": "7345d1cae16d8ccf",
+      "item": {
+        "type": "video",
+        "id": "7345d1cae16d8ccf",
+        "text": "YOUTUBE VnXadoWT1V0\nRyan Anthony, David Bilger and Michael Sachs perform as solo trumpets in Peter Meechan's moving SONG FOR HOPE, a work that Ryan Anthony wanted to include in the CancerBlows event in March 2015.\n\n"
+      },
+      "date": 1585138479349
+    },
+    {
+      "type": "fork",
+      "date": 1585138541731
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e0df76b94a2e9b7"
+      },
+      "id": "3e0df76b94a2e9b7",
+      "type": "add",
+      "after": "7345d1cae16d8ccf",
+      "date": 1585138547449
+    },
+    {
+      "type": "edit",
+      "id": "3e0df76b94a2e9b7",
+      "item": {
+        "type": "paragraph",
+        "id": "3e0df76b94a2e9b7",
+        "text": "SONG FOR HOPE is available on iTunes, Spotify, HD Tracks and all digital download and streaming services!!\n\nRYAN'S STORY:\nRecorded in a studio session in front of a live audience, Ryan wanted to allow the audience a bit of a behind the scenes look into the recording process, while capturing this profound piece of music for the CancerBlows recording. \n\nMusic=Hope Records was created to deliver the power of music to help fight cancer and all proceeds from the sales of the recording fund cancer research."
+      },
+      "date": 1585138554811
+    },
+    {
+      "type": "edit",
+      "id": "3e0df76b94a2e9b7",
+      "item": {
+        "type": "paragraph",
+        "id": "3e0df76b94a2e9b7",
+        "text": "SONG FOR HOPE is available on iTunes, Spotify, HD Tracks and all digital download and streaming services\n\nRYAN'S STORY:\nRecorded in a studio session in front of a live audience, Ryan wanted to allow the audience a bit of a behind the scenes look into the recording process, while capturing this profound piece of music for the CancerBlows recording. \n\nMusic=Hope Records was created to deliver the power of music to help fight cancer and all proceeds from the sales of the recording fund cancer research."
+      },
+      "date": 1585138576409
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a88c0b4ede4bfda"
+      },
+      "id": "1a88c0b4ede4bfda",
+      "type": "add",
+      "after": "3e0df76b94a2e9b7",
+      "date": 1585138613240
+    },
+    {
+      "type": "edit",
+      "id": "1a88c0b4ede4bfda",
+      "item": {
+        "type": "paragraph",
+        "id": "1a88c0b4ede4bfda",
+        "text": "Music=Hope Records was created to deliver the power of music to help fight cancer and all proceeds from the sales of the recording fund cancer research."
+      },
+      "date": 1585138621850
+    },
+    {
+      "id": "1a88c0b4ede4bfda",
+      "type": "move",
+      "order": [
+        "1a88c0b4ede4bfda",
+        "7345d1cae16d8ccf",
+        "3e0df76b94a2e9b7"
+      ],
+      "date": 1585138646617
+    }
+  ]
+}

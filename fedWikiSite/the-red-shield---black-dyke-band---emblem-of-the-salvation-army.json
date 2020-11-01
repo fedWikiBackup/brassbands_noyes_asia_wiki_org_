@@ -1,0 +1,148 @@
+{
+  "title": "The Red Shield - Black Dyke Band - Emblem of The Salvation Army",
+  "story": [
+    {
+      "type": "video",
+      "id": "ef4338941c0e81df",
+      "text": "YOUTUBE 2G5siMgohzw\nThe Red Shield - Band March"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d22513b14597e36",
+      "text": "This is \"The Red Shield\" performed by The Black Dyke Band. It is taken from their album 'World Class Marches of the Salvation Army - Volume I' which features many great band marches. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d86ff788c6714860",
+      "text": "It was released in 2009. "
+    },
+    {
+      "type": "paragraph",
+      "id": "50c3b69e36864145",
+      "text": "Further volumes were recorded and released by the Black Dyke Band. "
+    },
+    {
+      "type": "paragraph",
+      "id": "01b7b69122e0bdc9",
+      "text": "This march was intended for street parades and open air. "
+    },
+    {
+      "type": "paragraph",
+      "id": "67cd4146e4856daf",
+      "text": "It was written in 1928 and the title refers to the worldly recognised Red Shield logo of the Salvation Army. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Red Shield - Black Dyke Band - Emblem of The Salvation Army",
+        "story": []
+      },
+      "date": 1505138024061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef4338941c0e81df"
+      },
+      "id": "ef4338941c0e81df",
+      "type": "add",
+      "date": 1505138026739
+    },
+    {
+      "type": "edit",
+      "id": "ef4338941c0e81df",
+      "item": {
+        "type": "video",
+        "id": "ef4338941c0e81df",
+        "text": "YOUTUBE "
+      },
+      "date": 1505138042897
+    },
+    {
+      "type": "edit",
+      "id": "ef4338941c0e81df",
+      "item": {
+        "type": "video",
+        "id": "ef4338941c0e81df",
+        "text": "YOUTUBE 2G5siMgohzw\nThe Red Shield - Band March"
+      },
+      "date": 1505138104442
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d22513b14597e36"
+      },
+      "id": "8d22513b14597e36",
+      "type": "add",
+      "after": "ef4338941c0e81df",
+      "date": 1505138144040
+    },
+    {
+      "type": "edit",
+      "id": "8d22513b14597e36",
+      "item": {
+        "type": "paragraph",
+        "id": "8d22513b14597e36",
+        "text": "This is \"The Red Shield\" performed by The Black Dyke Band. It is taken from their album 'World Class Marches of the Salvation Army - Volume I' which features many great band marches. "
+      },
+      "date": 1505138158311
+    },
+    {
+      "type": "add",
+      "id": "d86ff788c6714860",
+      "item": {
+        "type": "paragraph",
+        "id": "d86ff788c6714860",
+        "text": "It was released in 2009. "
+      },
+      "after": "8d22513b14597e36",
+      "date": 1505138167119
+    },
+    {
+      "type": "add",
+      "id": "50c3b69e36864145",
+      "item": {
+        "type": "paragraph",
+        "id": "50c3b69e36864145",
+        "text": "Further volumes were recorded and released by the Black Dyke Band. "
+      },
+      "after": "d86ff788c6714860",
+      "date": 1505138175544
+    },
+    {
+      "type": "add",
+      "id": "01b7b69122e0bdc9",
+      "item": {
+        "type": "paragraph",
+        "id": "01b7b69122e0bdc9",
+        "text": "This march was intended for street parades and open air. It was written in 1928 and the title refers to the worldly recognised Red Shield logo of the Salvation Army. "
+      },
+      "after": "50c3b69e36864145",
+      "date": 1505138177838
+    },
+    {
+      "type": "edit",
+      "id": "01b7b69122e0bdc9",
+      "item": {
+        "type": "paragraph",
+        "id": "01b7b69122e0bdc9",
+        "text": "This march was intended for street parades and open air. "
+      },
+      "date": 1505138191071
+    },
+    {
+      "type": "add",
+      "id": "67cd4146e4856daf",
+      "item": {
+        "type": "paragraph",
+        "id": "67cd4146e4856daf",
+        "text": "It was written in 1928 and the title refers to the worldly recognised Red Shield logo of the Salvation Army. "
+      },
+      "after": "01b7b69122e0bdc9",
+      "date": 1505138193214
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "title": "Brass Band Schoonhoven",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dd3c26606ce7a5cb",
+      "text": "Dutch Champion 2010-13,16,19"
+    },
+    {
+      "type": "paragraph",
+      "id": "d8c29de92c400667",
+      "text": "Winner Own Choice EBBC2012"
+    },
+    {
+      "type": "paragraph",
+      "id": "ed06a47b4567fc81",
+      "text": "EuroBrass/DutchOpen Champion 2011-13,18"
+    },
+    {
+      "type": "paragraph",
+      "id": "afb0799f5aceefe5",
+      "text": "Ambassador Dutch Silver City"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d82847b743980bc",
+      "text": "[https://www.facebook.com/brassbandschoonhoven/ Facebook]"
+    },
+    {
+      "type": "video",
+      "id": "7a98024585faf4a1",
+      "text": "YOUTUBE FDbfJxS_5e0\nBest performance in Entertainment and Presentation.\nBrass in Concert Championship 16 November 2014"
+    },
+    {
+      "type": "paragraph",
+      "id": "cf88684d30a76412",
+      "text": "BiC Entertainment winner 2014"
+    },
+    {
+      "type": "video",
+      "id": "1709fb38670cf8d6",
+      "text": "YOUTUBE lLg5mMm7L_Q\nBrassband Schoonhoven A - NBK 2017"
+    },
+    {
+      "type": "video",
+      "id": "ada0b07cc9341c7e",
+      "text": "YOUTUBE q503fgKK9SI\nOMF maart 2019 - Brassband “Schoonhoven-A” Schoonhoven spilet ûnder lieding fan Robbert Vos: Toccata ”Oh the Blessed Lord” (Wilfred Heaton), Journey into Freedom (Eric Ball), Concerto for Bass Trombone - solist Rommert Groenhof (Derek Bourgois) en Spectrum (Gilbert Vinter) op it OMFryslân konsert konkoers yn de Lawei Drachten."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Brass Band Schoonhoven",
+        "story": []
+      },
+      "date": 1505765467143
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ada0b07cc9341c7e"
+      },
+      "id": "ada0b07cc9341c7e",
+      "type": "add",
+      "date": 1582158741181
+    },
+    {
+      "type": "edit",
+      "id": "ada0b07cc9341c7e",
+      "item": {
+        "type": "video",
+        "id": "ada0b07cc9341c7e",
+        "text": "YOUTUBE q503fgKK9SI\nOMF maart 2019"
+      },
+      "date": 1585136938578
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "afb0799f5aceefe5",
+        "text": "Ambassador Dutch Silver City"
+      },
+      "id": "afb0799f5aceefe5",
+      "type": "add",
+      "after": "ada0b07cc9341c7e",
+      "date": 1585137106645
+    },
+    {
+      "type": "edit",
+      "id": "afb0799f5aceefe5",
+      "item": {
+        "type": "paragraph",
+        "id": "afb0799f5aceefe5",
+        "text": "Ambassador Dutch Silver City"
+      },
+      "date": 1585137113260
+    },
+    {
+      "id": "afb0799f5aceefe5",
+      "type": "move",
+      "order": [
+        "afb0799f5aceefe5",
+        "ada0b07cc9341c7e"
+      ],
+      "date": 1585137115255
+    },
+    {
+      "type": "edit",
+      "id": "afb0799f5aceefe5",
+      "item": {
+        "type": "paragraph",
+        "id": "afb0799f5aceefe5",
+        "text": "Ambassador Dutch Silver City"
+      },
+      "date": 1585137121916
+    },
+    {
+      "type": "add",
+      "id": "cf88684d30a76412",
+      "item": {
+        "type": "paragraph",
+        "id": "cf88684d30a76412",
+        "text": "BiC Entertainment winner 2014"
+      },
+      "after": "afb0799f5aceefe5",
+      "date": 1585137127086
+    },
+    {
+      "type": "add",
+      "id": "dd3c26606ce7a5cb",
+      "item": {
+        "type": "paragraph",
+        "id": "dd3c26606ce7a5cb",
+        "text": "Dutch Champion 2010-13,16,19"
+      },
+      "after": "cf88684d30a76412",
+      "date": 1585137132404
+    },
+    {
+      "type": "add",
+      "id": "ed06a47b4567fc81",
+      "item": {
+        "type": "paragraph",
+        "id": "ed06a47b4567fc81",
+        "text": "EuroBrass/DutchOpen Champion 2011-13,18"
+      },
+      "after": "dd3c26606ce7a5cb",
+      "date": 1585137137954
+    },
+    {
+      "type": "add",
+      "id": "d8c29de92c400667",
+      "item": {
+        "type": "paragraph",
+        "id": "d8c29de92c400667",
+        "text": "Winner Own Choice EBBC2012"
+      },
+      "after": "ed06a47b4567fc81",
+      "date": 1585137140638
+    },
+    {
+      "id": "d8c29de92c400667",
+      "type": "move",
+      "order": [
+        "d8c29de92c400667",
+        "afb0799f5aceefe5",
+        "cf88684d30a76412",
+        "dd3c26606ce7a5cb",
+        "ed06a47b4567fc81",
+        "ada0b07cc9341c7e"
+      ],
+      "date": 1585137151070
+    },
+    {
+      "id": "dd3c26606ce7a5cb",
+      "type": "move",
+      "order": [
+        "dd3c26606ce7a5cb",
+        "d8c29de92c400667",
+        "afb0799f5aceefe5",
+        "cf88684d30a76412",
+        "ed06a47b4567fc81",
+        "ada0b07cc9341c7e"
+      ],
+      "date": 1585137168897
+    },
+    {
+      "id": "ed06a47b4567fc81",
+      "type": "move",
+      "order": [
+        "dd3c26606ce7a5cb",
+        "d8c29de92c400667",
+        "ed06a47b4567fc81",
+        "afb0799f5aceefe5",
+        "cf88684d30a76412",
+        "ada0b07cc9341c7e"
+      ],
+      "date": 1585137180068
+    },
+    {
+      "type": "fork",
+      "date": 1585137243827
+    },
+    {
+      "type": "edit",
+      "id": "ada0b07cc9341c7e",
+      "item": {
+        "type": "video",
+        "id": "ada0b07cc9341c7e",
+        "text": "YOUTUBE q503fgKK9SI\nOMF maart 2019 - Brassband “Schoonhoven-A” Schoonhoven spilet ûnder lieding fan Robbert Vos: Toccata ”Oh the Blessed Lord” (Wilfred Heaton), Journey into Freedom (Eric Ball), Concerto for Bass Trombone - solist Rommert Groenhof (Derek Bourgois) en Spectrum (Gilbert Vinter) op it OMFryslân konsert konkoers yn de Lawei Drachten."
+      },
+      "date": 1585137260562
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1709fb38670cf8d6"
+      },
+      "id": "1709fb38670cf8d6",
+      "type": "add",
+      "after": "ada0b07cc9341c7e",
+      "date": 1585137651335
+    },
+    {
+      "type": "edit",
+      "id": "1709fb38670cf8d6",
+      "item": {
+        "type": "video",
+        "id": "1709fb38670cf8d6",
+        "text": "YOUTUBE lLg5mMm7L_Q"
+      },
+      "date": 1585137672673
+    },
+    {
+      "type": "edit",
+      "id": "1709fb38670cf8d6",
+      "item": {
+        "type": "video",
+        "id": "1709fb38670cf8d6",
+        "text": "YOUTUBE lLg5mMm7L_Q\nBrassband Schoonhoven A - NBK 2017"
+      },
+      "date": 1585137758029
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a98024585faf4a1"
+      },
+      "id": "7a98024585faf4a1",
+      "type": "add",
+      "after": "1709fb38670cf8d6",
+      "date": 1585137793944
+    },
+    {
+      "type": "edit",
+      "id": "7a98024585faf4a1",
+      "item": {
+        "type": "video",
+        "id": "7a98024585faf4a1",
+        "text": "YOUTUBE FDbfJxS_5e0"
+      },
+      "date": 1585137810524
+    },
+    {
+      "type": "edit",
+      "id": "7a98024585faf4a1",
+      "item": {
+        "type": "video",
+        "id": "7a98024585faf4a1",
+        "text": "YOUTUBE FDbfJxS_5e0\nBest performance in Entertainment and Presentation.\nBrass in Concert Championship 16 November 2014"
+      },
+      "date": 1585137852072
+    },
+    {
+      "id": "7a98024585faf4a1",
+      "type": "move",
+      "order": [
+        "dd3c26606ce7a5cb",
+        "d8c29de92c400667",
+        "ed06a47b4567fc81",
+        "afb0799f5aceefe5",
+        "7a98024585faf4a1",
+        "cf88684d30a76412",
+        "ada0b07cc9341c7e",
+        "1709fb38670cf8d6"
+      ],
+      "date": 1585137936443
+    },
+    {
+      "id": "ada0b07cc9341c7e",
+      "type": "move",
+      "order": [
+        "dd3c26606ce7a5cb",
+        "d8c29de92c400667",
+        "ed06a47b4567fc81",
+        "afb0799f5aceefe5",
+        "7a98024585faf4a1",
+        "cf88684d30a76412",
+        "1709fb38670cf8d6",
+        "ada0b07cc9341c7e"
+      ],
+      "date": 1585137946739
+    },
+    {
+      "type": "add",
+      "id": "4d82847b743980bc",
+      "item": {
+        "type": "paragraph",
+        "id": "4d82847b743980bc",
+        "text": "[https://www.facebook.com/brassbandschoonhoven/ Facebook]"
+      },
+      "after": "afb0799f5aceefe5",
+      "date": 1585138035581
+    }
+  ]
+}

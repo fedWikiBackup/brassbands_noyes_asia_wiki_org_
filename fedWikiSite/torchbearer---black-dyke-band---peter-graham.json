@@ -1,0 +1,90 @@
+{
+  "title": "Torchbearer - Black Dyke Band - Peter Graham",
+  "story": [
+    {
+      "type": "video",
+      "id": "af695c44c7b55099",
+      "text": "YOUTUBE l1kYymtN_OI\nTorchbearer - Peter Graham"
+    },
+    {
+      "type": "paragraph",
+      "id": "46d04b209dba52c0",
+      "text": "The famous Black Dyke Band performing Peter Graham's Torchbearer at the 2015 Yorkshire Regionals at St Georges Hall. "
+    },
+    {
+      "type": "paragraph",
+      "id": "78bd2b26ad821424",
+      "text": "The band was originally placed 4th, but later unfortunately disqualified from the contest according with rule 9a. \"All players taking part in the Contest must be registered with only ONE accredited Registry at least 7 days before the Friday of the contest weekend and may only compete with the band that holds their Registration\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Torchbearer - Black Dyke Band - Peter Graham",
+        "story": []
+      },
+      "date": 1505138619685
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46d04b209dba52c0"
+      },
+      "id": "46d04b209dba52c0",
+      "type": "add",
+      "date": 1505138621448
+    },
+    {
+      "type": "edit",
+      "id": "46d04b209dba52c0",
+      "item": {
+        "type": "paragraph",
+        "id": "46d04b209dba52c0",
+        "text": "The famous Black Dyke Band performing Peter Graham's Torchbearer at the 2015 Yorkshire Regionals at St Georges Hall. "
+      },
+      "date": 1505138634901
+    },
+    {
+      "type": "add",
+      "id": "78bd2b26ad821424",
+      "item": {
+        "type": "paragraph",
+        "id": "78bd2b26ad821424",
+        "text": "The band was originally placed 4th, but later unfortunately disqualified from the contest according with rule 9a. \"All players taking part in the Contest must be registered with only ONE accredited Registry at least 7 days before the Friday of the contest weekend and may only compete with the band that holds their Registration\""
+      },
+      "after": "46d04b209dba52c0",
+      "date": 1505138673693
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af695c44c7b55099"
+      },
+      "id": "af695c44c7b55099",
+      "type": "add",
+      "after": "78bd2b26ad821424",
+      "date": 1505138703246
+    },
+    {
+      "type": "edit",
+      "id": "af695c44c7b55099",
+      "item": {
+        "type": "video",
+        "id": "af695c44c7b55099",
+        "text": "YOUTUBE l1kYymtN_OI\nTorchbearer - Peter Graham"
+      },
+      "date": 1505138746430
+    },
+    {
+      "type": "move",
+      "order": [
+        "af695c44c7b55099",
+        "46d04b209dba52c0",
+        "78bd2b26ad821424"
+      ],
+      "id": "af695c44c7b55099",
+      "date": 1505138755519
+    }
+  ]
+}

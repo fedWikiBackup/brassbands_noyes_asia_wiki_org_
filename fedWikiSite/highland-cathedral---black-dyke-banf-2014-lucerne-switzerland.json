@@ -1,0 +1,39 @@
+{
+  "title": "Highland Cathedral - Black Dyke Banf 2014 Lucerne Switzerland",
+  "story": [
+    {
+      "type": "video",
+      "id": "4f5affcf62825ba6",
+      "text": "YOUTUBE 54LUON28x44\nHighLand Cathedral"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Highland Cathedral - Black Dyke Banf 2014 Lucerne Switzerland",
+        "story": []
+      },
+      "date": 1505136841703
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f5affcf62825ba6"
+      },
+      "id": "4f5affcf62825ba6",
+      "type": "add",
+      "date": 1505136843612
+    },
+    {
+      "type": "edit",
+      "id": "4f5affcf62825ba6",
+      "item": {
+        "type": "video",
+        "id": "4f5affcf62825ba6",
+        "text": "YOUTUBE 54LUON28x44\nHighLand Cathedral"
+      },
+      "date": 1505136875729
+    }
+  ]
+}

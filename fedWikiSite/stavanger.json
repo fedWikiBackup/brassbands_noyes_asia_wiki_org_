@@ -1,0 +1,28 @@
+{
+  "title": "Stavanger",
+  "story": [
+    {
+      "type": "factory",
+      "id": "1d8d1e0031864179"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stavanger",
+        "story": []
+      },
+      "date": 1505765403852
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d8d1e0031864179"
+      },
+      "id": "1d8d1e0031864179",
+      "type": "add",
+      "date": 1582158698054
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Wingates",
+  "story": [
+    {
+      "type": "factory",
+      "id": "f87fe05a541aad17"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wingates",
+        "story": []
+      },
+      "date": 1582158586714
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f87fe05a541aad17"
+      },
+      "id": "f87fe05a541aad17",
+      "type": "add",
+      "date": 1582158588165
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9201",
+      "date": 1582158752230
+    }
+  ]
+}

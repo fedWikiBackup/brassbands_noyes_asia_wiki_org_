@@ -1,0 +1,28 @@
+{
+  "title": "Co-operative Funeralcare",
+  "story": [
+    {
+      "type": "factory",
+      "id": "7f372384ca25cedb"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Co-operative Funeralcare",
+        "story": []
+      },
+      "date": 1505765409519
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f372384ca25cedb"
+      },
+      "id": "7f372384ca25cedb",
+      "type": "add",
+      "date": 1582158702414
+    }
+  ]
+}

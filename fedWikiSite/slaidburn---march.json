@@ -1,0 +1,59 @@
+{
+  "title": "Slaidburn - March",
+  "story": [
+    {
+      "type": "video",
+      "id": "d3cbaec2094c732b",
+      "text": "YOUTUBE wTmj9YRCNj0\nI was once told.. \"You're not a real brass band player until you've played this, even if you do play it badly\" I'm inclined to agree﻿ "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Slaidburn - March",
+        "story": []
+      },
+      "date": 1505143300275
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d3cbaec2094c732b"
+      },
+      "id": "d3cbaec2094c732b",
+      "type": "add",
+      "date": 1505143302387
+    },
+    {
+      "type": "edit",
+      "id": "d3cbaec2094c732b",
+      "item": {
+        "type": "video",
+        "id": "d3cbaec2094c732b",
+        "text": "YOUTUBE "
+      },
+      "date": 1505143319535
+    },
+    {
+      "type": "edit",
+      "id": "d3cbaec2094c732b",
+      "item": {
+        "type": "video",
+        "id": "d3cbaec2094c732b",
+        "text": "YOUTUBE wTmj9YRCNj0"
+      },
+      "date": 1505143334892
+    },
+    {
+      "type": "edit",
+      "id": "d3cbaec2094c732b",
+      "item": {
+        "type": "video",
+        "id": "d3cbaec2094c732b",
+        "text": "YOUTUBE wTmj9YRCNj0\nI was once told.. \"You're not a real brass band player until you've played this, even if you do play it badly\" I'm inclined to agree﻿ "
+      },
+      "date": 1505143421243
+    }
+  ]
+}

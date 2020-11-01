@@ -1,0 +1,84 @@
+{
+  "title": "Fairey",
+  "story": [
+    {
+      "type": "video",
+      "id": "0000d5f998d17856",
+      "text": "YOUTUBE 8v1VI7OnIO0\nNorthwest Region    337.73"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fairey",
+        "story": []
+      },
+      "date": 1505765345346
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "e62bb7947e0293fc",
+        "text": "YOUTUBE BkKwYk2H9co\n..."
+      },
+      "id": "e62bb7947e0293fc",
+      "type": "add",
+      "date": 1582160288665
+    },
+    {
+      "type": "edit",
+      "id": "e62bb7947e0293fc",
+      "item": {
+        "type": "video",
+        "id": "e62bb7947e0293fc",
+        "text": "YOUTUBE BkKwYk2H9co\n..."
+      },
+      "date": 1582160306031
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "0000d5f998d17856",
+        "text": "YOUTUBE 8v1VI7OnIO0\n..."
+      },
+      "id": "0000d5f998d17856",
+      "type": "add",
+      "after": "e62bb7947e0293fc",
+      "date": 1582160340976
+    },
+    {
+      "type": "edit",
+      "id": "0000d5f998d17856",
+      "item": {
+        "type": "video",
+        "id": "0000d5f998d17856",
+        "text": "YOUTUBE 8v1VI7OnIO0\n..."
+      },
+      "date": 1582160360365
+    },
+    {
+      "type": "fork",
+      "date": 1582160367168
+    },
+    {
+      "type": "remove",
+      "id": "e62bb7947e0293fc",
+      "date": 1582162930441
+    },
+    {
+      "type": "edit",
+      "id": "0000d5f998d17856",
+      "item": {
+        "type": "video",
+        "id": "0000d5f998d17856",
+        "text": "YOUTUBE 8v1VI7OnIO0\nNorthwest Region    337.73"
+      },
+      "date": 1582163019582
+    },
+    {
+      "type": "fork",
+      "date": 1582163117233
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Fire in the Blood - International Staff Band of The Salvation Army - Paul Lovatt-Cooper",
+  "story": [
+    {
+      "type": "video",
+      "id": "5bfc87c06c9d828d",
+      "text": "YOUTUBE atVuV7JvPrI\nFire in the Blood -Paul Lovatt-Cooper"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fire in the Blood - International Staff Band of The Salvation Army - Paul Lovatt-Cooper",
+        "story": []
+      },
+      "date": 1505141099978
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5bfc87c06c9d828d"
+      },
+      "id": "5bfc87c06c9d828d",
+      "type": "add",
+      "date": 1505141107722
+    },
+    {
+      "type": "edit",
+      "id": "5bfc87c06c9d828d",
+      "item": {
+        "type": "video",
+        "id": "5bfc87c06c9d828d",
+        "text": "YOUTUBE "
+      },
+      "date": 1505141127445
+    },
+    {
+      "type": "edit",
+      "id": "5bfc87c06c9d828d",
+      "item": {
+        "type": "video",
+        "id": "5bfc87c06c9d828d",
+        "text": "YOUTUBE atVuV7JvPrI\nFire in the Blood -Paul Lovatt-Cooper"
+      },
+      "date": 1505141236631
+    }
+  ]
+}

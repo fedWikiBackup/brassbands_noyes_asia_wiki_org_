@@ -1,0 +1,49 @@
+{
+  "title": "Brass Band Willebroek",
+  "story": [
+    {
+      "type": "html",
+      "id": "bdfef18d33ffa6b2",
+      "text": "<hr>World Ranking 006 \tBrass Band Willebroek \tBelgium   481.84<hr>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Brass Band Willebroek",
+        "story": []
+      },
+      "date": 1505765318998
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bdfef18d33ffa6b2"
+      },
+      "id": "bdfef18d33ffa6b2",
+      "type": "add",
+      "date": 1514255966883
+    },
+    {
+      "type": "edit",
+      "id": "bdfef18d33ffa6b2",
+      "item": {
+        "type": "paragraph",
+        "id": "bdfef18d33ffa6b2",
+        "text": "<hr>World Ranking 006 \tBrass Band Willebroek \tBelgium   481.84<hr>"
+      },
+      "date": 1514256030768
+    },
+    {
+      "type": "edit",
+      "id": "bdfef18d33ffa6b2",
+      "item": {
+        "type": "html",
+        "id": "bdfef18d33ffa6b2",
+        "text": "<hr>World Ranking 006 \tBrass Band Willebroek \tBelgium   481.84<hr>"
+      },
+      "date": 1514256035362
+    }
+  ]
+}

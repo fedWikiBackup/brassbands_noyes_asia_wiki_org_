@@ -1,0 +1,23 @@
+{
+  "title": "Phillip McCann",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Phillip McCann",
+        "story": []
+      },
+      "date": 1579947320857,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1579947379249
+    }
+  ]
+}

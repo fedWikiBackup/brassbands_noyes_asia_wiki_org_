@@ -1,0 +1,33 @@
+{
+  "title": "Tongwynlais Temperance",
+  "story": [
+    {
+      "type": "factory",
+      "id": "6469599630ad23a1"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tongwynlais Temperance",
+        "story": []
+      },
+      "date": 1582158592817
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6469599630ad23a1"
+      },
+      "id": "6469599630ad23a1",
+      "type": "add",
+      "date": 1582158594161
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9201",
+      "date": 1582158766933
+    }
+  ]
+}

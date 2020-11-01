@@ -1,0 +1,28 @@
+{
+  "title": "Friary Guildford",
+  "story": [
+    {
+      "type": "factory",
+      "id": "ea85d3592f8f808e"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Friary Guildford",
+        "story": []
+      },
+      "date": 1582158789684
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ea85d3592f8f808e"
+      },
+      "id": "ea85d3592f8f808e",
+      "type": "add",
+      "date": 1582158793628
+    }
+  ]
+}

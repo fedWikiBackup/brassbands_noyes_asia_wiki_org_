@@ -1,0 +1,139 @@
+{
+  "title": "Grimethorpe Colliery Videos",
+  "story": [
+    {
+      "type": "video",
+      "id": "84583e5e34e063e4",
+      "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park\nBrass In Concert 2008 at The Sage, Gateshead Grimethorpe Colliery Band DVD -- www.worldofbrass.com"
+    },
+    {
+      "type": "video",
+      "id": "8a7e76ed622f5389",
+      "text": "YOUTUBE tjpAM5YWeQU\nThe Grimethorpe Colliery Band is a brass band, based in Grimethorpe, South Yorkshire, England. It was formed in 1917, as a leisure activity for the workers at the colliery, by members of the disbanded Cudworth Colliery Band. The band has 28 players "
+    },
+    {
+      "type": "video",
+      "id": "e6a54f8164ab31b8",
+      "text": "YOUTUBE bzvIcif6JGQ\nThis is a favourite piece both to listen to & play. Not the most technically taxing, but the stamina required to carry the piece off is absolutely immense. Just listen to the first 3 minutes, its NEVER off the face. Coupled with the tuning and intonation, its still a severe test of ANY band to get it right. Well played﻿\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Grimethorpe Colliery Videos",
+        "story": []
+      },
+      "date": 1505912726024
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84583e5e34e063e4"
+      },
+      "id": "84583e5e34e063e4",
+      "type": "add",
+      "date": 1505912727675
+    },
+    {
+      "type": "edit",
+      "id": "84583e5e34e063e4",
+      "item": {
+        "type": "video",
+        "id": "84583e5e34e063e4",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park"
+      },
+      "date": 1505912762909
+    },
+    {
+      "type": "edit",
+      "id": "84583e5e34e063e4",
+      "item": {
+        "type": "video",
+        "id": "84583e5e34e063e4",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park\nBrass In Concert 2008 at The Sage, Gateshead Grimethorpe Colliery Band full DVD available from www.worldofbrass.com"
+      },
+      "date": 1505912822369
+    },
+    {
+      "type": "edit",
+      "id": "84583e5e34e063e4",
+      "item": {
+        "type": "video",
+        "id": "84583e5e34e063e4",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park\nBrass In Concert 2008 at The Sage, Gateshead Grimethorpe Colliery Band DVD -- www.worldofbrass.com"
+      },
+      "date": 1505912881463
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a7e76ed622f5389"
+      },
+      "id": "8a7e76ed622f5389",
+      "type": "add",
+      "after": "84583e5e34e063e4",
+      "date": 1514255362108
+    },
+    {
+      "type": "edit",
+      "id": "8a7e76ed622f5389",
+      "item": {
+        "type": "video",
+        "id": "8a7e76ed622f5389",
+        "text": "YOUTUBE tjpAM5YWeQU"
+      },
+      "date": 1514255377754
+    },
+    {
+      "type": "edit",
+      "id": "8a7e76ed622f5389",
+      "item": {
+        "type": "video",
+        "id": "8a7e76ed622f5389",
+        "text": "YOUTUBE tjpAM5YWeQU\nThe Grimethorpe Colliery Band is a brass band, based in Grimethorpe, South Yorkshire, England. It was formed in 1917, as a leisure activity for the workers at the colliery, by members of the disbanded Cudworth Colliery Band. The band has 28 players "
+      },
+      "date": 1514255433985
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6a54f8164ab31b8"
+      },
+      "id": "e6a54f8164ab31b8",
+      "type": "add",
+      "after": "8a7e76ed622f5389",
+      "date": 1514255531266
+    },
+    {
+      "type": "edit",
+      "id": "e6a54f8164ab31b8",
+      "item": {
+        "type": "video",
+        "id": "e6a54f8164ab31b8",
+        "text": "YOUTUBE bzvIcif6JGQ"
+      },
+      "date": 1514255586313
+    },
+    {
+      "type": "edit",
+      "id": "e6a54f8164ab31b8",
+      "item": {
+        "type": "video",
+        "id": "e6a54f8164ab31b8",
+        "text": "YOUTUBE bzvIcif6JGQ\n"
+      },
+      "date": 1514255648832
+    },
+    {
+      "type": "edit",
+      "id": "e6a54f8164ab31b8",
+      "item": {
+        "type": "video",
+        "id": "e6a54f8164ab31b8",
+        "text": "YOUTUBE bzvIcif6JGQ\nThis is a favourite piece both to listen to & play. Not the most technically taxing, but the stamina required to carry the piece off is absolutely immense. Just listen to the first 3 minutes, its NEVER off the face. Coupled with the tuning and intonation, its still a severe test of ANY band to get it right. Well played﻿\n"
+      },
+      "date": 1514255749901
+    }
+  ]
+}

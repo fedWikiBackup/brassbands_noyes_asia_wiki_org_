@@ -1,0 +1,138 @@
+{
+  "title": "MacArthur Park - Grimethorpe Colliery Band",
+  "story": [
+    {
+      "type": "video",
+      "id": "10382720751ad0d7",
+      "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park at The Sage, Gateshead"
+    },
+    {
+      "type": "paragraph",
+      "id": "613d6f774b5fb2cb",
+      "text": "These guys are one of the best.  It's a close call between them and Black Dyke.  Seen them both in concert numerous times over the years, jaw-dropping stuff.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "913635fe0172a71d",
+      "text": "As a - reasonably good - cornet player myself, I watch them and think \"that's impossible\" !  "
+    },
+    {
+      "type": "paragraph",
+      "id": "4db9bb43620188be",
+      "text": "What I particularly like about this video, the conductor looks to be enjoying himself every bit as much as the players !  "
+    },
+    {
+      "type": "paragraph",
+      "id": "93924538337efc12",
+      "text": "This is what music is all about - pure enjoyment.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "95f84da908f22824",
+      "text": "To those of you that have never played in front of an appreciative audience, and got high on the adrenaline rush - you're missing something special :-)﻿ -- Arthur Wheeler"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "MacArthur Park - Grimethorpe Colliery Band",
+        "story": []
+      },
+      "date": 1505142178474
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "10382720751ad0d7"
+      },
+      "id": "10382720751ad0d7",
+      "type": "add",
+      "date": 1505142181190
+    },
+    {
+      "type": "edit",
+      "id": "10382720751ad0d7",
+      "item": {
+        "type": "video",
+        "id": "10382720751ad0d7",
+        "text": "YOUTUBE "
+      },
+      "date": 1505142195427
+    },
+    {
+      "type": "edit",
+      "id": "10382720751ad0d7",
+      "item": {
+        "type": "video",
+        "id": "10382720751ad0d7",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park at The Sage, Gateshead"
+      },
+      "date": 1505142275046
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "613d6f774b5fb2cb"
+      },
+      "id": "613d6f774b5fb2cb",
+      "type": "add",
+      "after": "10382720751ad0d7",
+      "date": 1505142281315
+    },
+    {
+      "type": "edit",
+      "id": "613d6f774b5fb2cb",
+      "item": {
+        "type": "paragraph",
+        "id": "613d6f774b5fb2cb",
+        "text": "These guys are one of the best.  It's a close call between them and Black Dyke.  Seen them both in concert numerous times over the years, jaw-dropping stuff.  "
+      },
+      "date": 1505142363479
+    },
+    {
+      "type": "add",
+      "id": "913635fe0172a71d",
+      "item": {
+        "type": "paragraph",
+        "id": "913635fe0172a71d",
+        "text": "As a - reasonably good - cornet player myself, I watch them and think \"that's impossible\" !  "
+      },
+      "after": "613d6f774b5fb2cb",
+      "date": 1505142370886
+    },
+    {
+      "type": "add",
+      "id": "4db9bb43620188be",
+      "item": {
+        "type": "paragraph",
+        "id": "4db9bb43620188be",
+        "text": "What I particularly like about this video, the conductor looks to be enjoying himself every bit as much as the players !  "
+      },
+      "after": "913635fe0172a71d",
+      "date": 1505142383911
+    },
+    {
+      "type": "add",
+      "id": "93924538337efc12",
+      "item": {
+        "type": "paragraph",
+        "id": "93924538337efc12",
+        "text": "This is what music is all about - pure enjoyment.  "
+      },
+      "after": "4db9bb43620188be",
+      "date": 1505142389894
+    },
+    {
+      "type": "add",
+      "id": "95f84da908f22824",
+      "item": {
+        "type": "paragraph",
+        "id": "95f84da908f22824",
+        "text": "To those of you that have never played in front of an appreciative audience, and got high on the adrenaline rush - you're missing something special :-)﻿ -- Arthur Wheeler"
+      },
+      "after": "93924538337efc12",
+      "date": 1505142403470
+    }
+  ]
+}

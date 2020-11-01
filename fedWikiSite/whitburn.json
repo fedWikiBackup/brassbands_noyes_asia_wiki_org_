@@ -1,0 +1,28 @@
+{
+  "title": "Whitburn",
+  "story": [
+    {
+      "type": "factory",
+      "id": "980ab3802438566e"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Whitburn",
+        "story": []
+      },
+      "date": 1505765372123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "980ab3802438566e"
+      },
+      "id": "980ab3802438566e",
+      "type": "add",
+      "date": 1582158684687
+    }
+  ]
+}

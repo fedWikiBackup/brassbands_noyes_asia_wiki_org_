@@ -1,0 +1,39 @@
+{
+  "title": "The Planets: Jupiter - Black Dyke Band - Gustav Hoist",
+  "story": [
+    {
+      "type": "video",
+      "id": "36667065e7beef30",
+      "text": "YOUTUBE uvDZXUbljuM\nThe Planets: Jupiter - Gustav Hoist"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Planets: Jupiter - Black Dyke Band - Gustav Hoist",
+        "story": []
+      },
+      "date": 1505139402201
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36667065e7beef30"
+      },
+      "id": "36667065e7beef30",
+      "type": "add",
+      "date": 1505139404939
+    },
+    {
+      "type": "edit",
+      "id": "36667065e7beef30",
+      "item": {
+        "type": "video",
+        "id": "36667065e7beef30",
+        "text": "YOUTUBE uvDZXUbljuM\nThe Planets: Jupiter - Gustav Hoist"
+      },
+      "date": 1505139453300
+    }
+  ]
+}

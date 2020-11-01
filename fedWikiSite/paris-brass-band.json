@@ -1,0 +1,28 @@
+{
+  "title": "Paris Brass Band",
+  "story": [
+    {
+      "type": "factory",
+      "id": "5045307fed298a71"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Paris Brass Band",
+        "story": []
+      },
+      "date": 1505765442051
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5045307fed298a71"
+      },
+      "id": "5045307fed298a71",
+      "type": "add",
+      "date": 1582158727135
+    }
+  ]
+}

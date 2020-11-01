@@ -1,0 +1,28 @@
+{
+  "title": "Woodfalls",
+  "story": [
+    {
+      "type": "factory",
+      "id": "1ca9663b2e9bb812"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Woodfalls",
+        "story": []
+      },
+      "date": 1505765428841
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ca9663b2e9bb812"
+      },
+      "id": "1ca9663b2e9bb812",
+      "type": "add",
+      "date": 1582158718367
+    }
+  ]
+}

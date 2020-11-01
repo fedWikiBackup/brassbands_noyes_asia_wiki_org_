@@ -1,0 +1,374 @@
+{
+  "title": "youtube videos black dyke band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2260ae7b9b577db6",
+      "text": "[[Highland Cathedral - Black Dyke Banf 2014 Lucerne Switzerland]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "735b47d227263f71",
+      "text": "[[Immortal - Black Dyke Band - 2015 Lucerne Switzerland]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ad5efe9eee85e9b3",
+      "text": "[[Journey into Freedom - Black Dyke Bank - Eric Ball]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3ddc546a1f191202",
+      "text": "[[Metropolis 1927 - Black Dyke Band - Peter Graham]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "88b724d6a258eb08",
+      "text": "[[The Essence of Time - Black Dyke Band - Peter Graham]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d59a5fea46f0f6e",
+      "text": "[[The Planets: Jupiter - Black Dyke Band - Gustav Hoist]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "577a642ad071e842",
+      "text": "[[The Red Shield - Black Dyke Band - Emblem of The Salvation Army]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3503c29deffacc50",
+      "text": "[[Torchbearer - Black Dyke Band - Peter Graham]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4dd3c0878d5fcfae",
+      "text": "[[Horizons - Black Dyke Band - Paul Lovatt-Cooper]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "youtube videos black dyke band",
+        "story": []
+      },
+      "date": 1505135777843
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d833275d6a9b3956"
+      },
+      "id": "d833275d6a9b3956",
+      "type": "add",
+      "date": 1505135855167
+    },
+    {
+      "type": "edit",
+      "id": "d833275d6a9b3956",
+      "item": {
+        "type": "video",
+        "id": "d833275d6a9b3956",
+        "text": "YOUTUBE 7_jizDMnz3Q\nLucerne Switzerland"
+      },
+      "date": 1505135906693
+    },
+    {
+      "type": "edit",
+      "id": "d833275d6a9b3956",
+      "item": {
+        "type": "video",
+        "id": "d833275d6a9b3956",
+        "text": "YOUTUBE 7_jizDMnz3Q&t=150\nLucerne Switzerland\n\nhttps://youtu.be/7_jizDMnz3Q?t=150"
+      },
+      "date": 1505136044888
+    },
+    {
+      "type": "edit",
+      "id": "d833275d6a9b3956",
+      "item": {
+        "type": "video",
+        "id": "d833275d6a9b3956",
+        "text": "YOUTUBE 7_jizDMnz3Q&t=150\nLucerne Switzerland\n\n"
+      },
+      "date": 1505136054334
+    },
+    {
+      "type": "edit",
+      "id": "d833275d6a9b3956",
+      "item": {
+        "type": "video",
+        "id": "d833275d6a9b3956",
+        "text": "YOUTUBE 7_jizDMnz3Q\nLucerne Switzerland\n\n"
+      },
+      "date": 1505136067768
+    },
+    {
+      "type": "edit",
+      "id": "d833275d6a9b3956",
+      "item": {
+        "type": "video",
+        "id": "d833275d6a9b3956",
+        "text": "YOUTUBE 7_jizDMnz3Q\nImmortal -- Lucerne Switzerland\n\n"
+      },
+      "date": 1505136087277
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "735b47d227263f71"
+      },
+      "id": "735b47d227263f71",
+      "type": "add",
+      "after": "d833275d6a9b3956",
+      "date": 1505136385464
+    },
+    {
+      "type": "edit",
+      "id": "735b47d227263f71",
+      "item": {
+        "type": "paragraph",
+        "id": "735b47d227263f71",
+        "text": "[[Immortal - Black Dyke Band - Lucerne Switzerland"
+      },
+      "date": 1505136415508
+    },
+    {
+      "type": "edit",
+      "id": "735b47d227263f71",
+      "item": {
+        "type": "paragraph",
+        "id": "735b47d227263f71",
+        "text": "[[Immortal - Black Dyke Band - 2015 Lucerne Switzerland]]"
+      },
+      "date": 1505136451684
+    },
+    {
+      "type": "remove",
+      "id": "d833275d6a9b3956",
+      "date": 1505136477076
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2260ae7b9b577db6"
+      },
+      "id": "2260ae7b9b577db6",
+      "type": "add",
+      "after": "735b47d227263f71",
+      "date": 1505136785351
+    },
+    {
+      "type": "edit",
+      "id": "2260ae7b9b577db6",
+      "item": {
+        "type": "paragraph",
+        "id": "2260ae7b9b577db6",
+        "text": "[[Highland Cathedral - Black Dyke Banf 2014 Lucerne Switzerland]]"
+      },
+      "date": 1505136836567
+    },
+    {
+      "type": "move",
+      "order": [
+        "2260ae7b9b577db6",
+        "735b47d227263f71"
+      ],
+      "id": "2260ae7b9b577db6",
+      "date": 1505136887168
+    },
+    {
+      "type": "add",
+      "id": "ad5efe9eee85e9b3",
+      "item": {
+        "type": "paragraph",
+        "id": "ad5efe9eee85e9b3",
+        "text": "[[Journey into Freedom - Black Dyke Bank - Eric Ball]]"
+      },
+      "after": "735b47d227263f71",
+      "date": 1505137197353
+    },
+    {
+      "type": "add",
+      "id": "88b724d6a258eb08",
+      "item": {
+        "type": "paragraph",
+        "id": "88b724d6a258eb08",
+        "text": "[[The Essence of Time - Black Dyke Band - "
+      },
+      "after": "ad5efe9eee85e9b3",
+      "date": 1505137652222
+    },
+    {
+      "type": "edit",
+      "id": "88b724d6a258eb08",
+      "item": {
+        "type": "paragraph",
+        "id": "88b724d6a258eb08",
+        "text": "[[The Essence of Time - Black Dyke Band - Peter Graham]]"
+      },
+      "date": 1505137711735
+    },
+    {
+      "type": "add",
+      "id": "577a642ad071e842",
+      "item": {
+        "type": "paragraph",
+        "id": "577a642ad071e842",
+        "text": "[[The Red Shield - Black Dyke Band "
+      },
+      "after": "88b724d6a258eb08",
+      "date": 1505137958960
+    },
+    {
+      "type": "edit",
+      "id": "577a642ad071e842",
+      "item": {
+        "type": "paragraph",
+        "id": "577a642ad071e842",
+        "text": "[[The Red Shield - Black Dyke Band - Emblem of The Salvation Army]]"
+      },
+      "date": 1505138015963
+    },
+    {
+      "type": "add",
+      "id": "3503c29deffacc50",
+      "item": {
+        "type": "paragraph",
+        "id": "3503c29deffacc50",
+        "text": "[[Torch Bearer - Black Dyke Band]]"
+      },
+      "after": "577a642ad071e842",
+      "date": 1505138324364
+    },
+    {
+      "type": "edit",
+      "id": "3503c29deffacc50",
+      "item": {
+        "type": "paragraph",
+        "id": "3503c29deffacc50",
+        "text": "[[Torch Bearer - Black Dyke Band - Peter Graham]]"
+      },
+      "date": 1505138367811
+    },
+    {
+      "type": "edit",
+      "id": "3503c29deffacc50",
+      "item": {
+        "type": "paragraph",
+        "id": "3503c29deffacc50",
+        "text": "[[Torchbearer - Black Dyke Band - Peter Graham]]"
+      },
+      "date": 1505138434723
+    },
+    {
+      "type": "add",
+      "id": "3ddc546a1f191202",
+      "item": {
+        "type": "paragraph",
+        "id": "3ddc546a1f191202",
+        "text": "[[Metropolis 1927 - Black Dyke Band - Peter Graham]]"
+      },
+      "after": "3503c29deffacc50",
+      "date": 1505138844653
+    },
+    {
+      "type": "add",
+      "id": "8d59a5fea46f0f6e",
+      "item": {
+        "type": "paragraph",
+        "id": "8d59a5fea46f0f6e",
+        "text": "[[The Planets: Jupiter - Black Dyke Band - Gustav Hoist]]"
+      },
+      "after": "3ddc546a1f191202",
+      "date": 1505139383240
+    },
+    {
+      "type": "move",
+      "order": [
+        "2260ae7b9b577db6",
+        "735b47d227263f71",
+        "ad5efe9eee85e9b3",
+        "3ddc546a1f191202",
+        "88b724d6a258eb08",
+        "577a642ad071e842",
+        "3503c29deffacc50",
+        "8d59a5fea46f0f6e"
+      ],
+      "id": "3ddc546a1f191202",
+      "date": 1505139515833
+    },
+    {
+      "type": "move",
+      "order": [
+        "2260ae7b9b577db6",
+        "735b47d227263f71",
+        "ad5efe9eee85e9b3",
+        "3ddc546a1f191202",
+        "88b724d6a258eb08",
+        "8d59a5fea46f0f6e",
+        "577a642ad071e842",
+        "3503c29deffacc50"
+      ],
+      "id": "8d59a5fea46f0f6e",
+      "date": 1505139526334
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0aae6d94be8359fc"
+      },
+      "id": "0aae6d94be8359fc",
+      "type": "add",
+      "after": "3503c29deffacc50",
+      "date": 1505139947266
+    },
+    {
+      "type": "edit",
+      "id": "0aae6d94be8359fc",
+      "item": {
+        "type": "video",
+        "id": "0aae6d94be8359fc",
+        "text": "YOUTUBE uvDZXUbljuM"
+      },
+      "date": 1505139977840
+    },
+    {
+      "type": "edit",
+      "id": "0aae6d94be8359fc",
+      "item": {
+        "type": "video",
+        "id": "0aae6d94be8359fc",
+        "text": "YOUTUBE Upog5EgM84A"
+      },
+      "date": 1505140035036
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4dd3c0878d5fcfae"
+      },
+      "id": "4dd3c0878d5fcfae",
+      "type": "add",
+      "after": "0aae6d94be8359fc",
+      "date": 1505140040317
+    },
+    {
+      "type": "edit",
+      "id": "4dd3c0878d5fcfae",
+      "item": {
+        "type": "paragraph",
+        "id": "4dd3c0878d5fcfae",
+        "text": "[[Horizons - Black Dyke Band - Paul Lovatt-Cooper]]"
+      },
+      "date": 1505140093739
+    },
+    {
+      "type": "remove",
+      "id": "0aae6d94be8359fc",
+      "date": 1505140108634
+    }
+  ]
+}

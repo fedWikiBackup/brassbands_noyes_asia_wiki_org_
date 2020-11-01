@@ -1,0 +1,28 @@
+{
+  "title": "Manger Musikklag",
+  "story": [
+    {
+      "type": "factory",
+      "id": "301150c5ce2ee5f9"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Manger Musikklag",
+        "story": []
+      },
+      "date": 1505765458140
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "301150c5ce2ee5f9"
+      },
+      "id": "301150c5ce2ee5f9",
+      "type": "add",
+      "date": 1582158736165
+    }
+  ]
+}

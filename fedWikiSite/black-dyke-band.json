@@ -1,0 +1,133 @@
+{
+  "title": "Black Dyke Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a65029038d3ece24",
+      "text": "Black Dyke Band is the most recorded band in the world with over 350 recordings and growing every year. "
+    },
+    {
+      "type": "paragraph",
+      "id": "25e8412d7e98e870",
+      "text": "It is also the most successful contesting band in the world having won the European Championships thirteen times, most recently in 2015, the British Open no fewer than 30 times (most recently 2014) and the National Championships of Great Britain 23 times (most recently 2014). "
+    },
+    {
+      "type": "paragraph",
+      "id": "0a4b6dd77e4654a9",
+      "text": "In 2009, and again in 2011, 2012 and 2013, the band became Champion Band at the English National Championships and were named English National Champions in 2014 by virtue of having won the National Brass Band Championships in October 2014."
+    },
+    {
+      "type": "paragraph",
+      "id": "de92ab16ad12f2b8",
+      "text": " The band - currently Champions of Yorkshire."
+    },
+    {
+      "type": "paragraph",
+      "id": "e4e1aa20ee8efc4b",
+      "text": "[[youtube videos black dyke band]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Black Dyke Band",
+        "story": []
+      },
+      "date": 1505135559105
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a65029038d3ece24"
+      },
+      "id": "a65029038d3ece24",
+      "type": "add",
+      "date": 1505135647924
+    },
+    {
+      "type": "edit",
+      "id": "a65029038d3ece24",
+      "item": {
+        "type": "paragraph",
+        "id": "a65029038d3ece24",
+        "text": "Black Dyke Band is the most recorded band in the world with over 350 recordings and growing every year. It is also the most successful contesting band in the world having won the European Championships thirteen times, most recently in 2015, the British Open no fewer than 30 times (most recently 2014) and the National Championships of Great Britain 23 times (most recently 2014). In 2009, and again in 2011, 2012 and 2013, the band became Champion Band at the English National Championships and were named English National Champions in 2014 by virtue of having won the National Brass Band Championships in October 2014."
+      },
+      "date": 1505135672856
+    },
+    {
+      "type": "add",
+      "id": "de92ab16ad12f2b8",
+      "item": {
+        "type": "paragraph",
+        "id": "de92ab16ad12f2b8",
+        "text": " The band are currently Champions of Yorkshire."
+      },
+      "after": "a65029038d3ece24",
+      "date": 1505135693309
+    },
+    {
+      "type": "edit",
+      "id": "a65029038d3ece24",
+      "item": {
+        "type": "paragraph",
+        "id": "a65029038d3ece24",
+        "text": "Black Dyke Band is the most recorded band in the world with over 350 recordings and growing every year. It is also the most successful contesting band in the world having won the European Championships thirteen times, most recently in 2015, the British Open no fewer than 30 times (most recently 2014) and the National Championships of Great Britain 23 times (most recently 2014). "
+      },
+      "date": 1505135699758
+    },
+    {
+      "type": "add",
+      "id": "0a4b6dd77e4654a9",
+      "item": {
+        "type": "paragraph",
+        "id": "0a4b6dd77e4654a9",
+        "text": "In 2009, and again in 2011, 2012 and 2013, the band became Champion Band at the English National Championships and were named English National Champions in 2014 by virtue of having won the National Brass Band Championships in October 2014."
+      },
+      "after": "a65029038d3ece24",
+      "date": 1505135702856
+    },
+    {
+      "type": "edit",
+      "id": "a65029038d3ece24",
+      "item": {
+        "type": "paragraph",
+        "id": "a65029038d3ece24",
+        "text": "Black Dyke Band is the most recorded band in the world with over 350 recordings and growing every year. "
+      },
+      "date": 1505135707185
+    },
+    {
+      "type": "add",
+      "id": "25e8412d7e98e870",
+      "item": {
+        "type": "paragraph",
+        "id": "25e8412d7e98e870",
+        "text": "It is also the most successful contesting band in the world having won the European Championships thirteen times, most recently in 2015, the British Open no fewer than 30 times (most recently 2014) and the National Championships of Great Britain 23 times (most recently 2014). "
+      },
+      "after": "a65029038d3ece24",
+      "date": 1505135715025
+    },
+    {
+      "type": "add",
+      "id": "e4e1aa20ee8efc4b",
+      "item": {
+        "type": "paragraph",
+        "id": "e4e1aa20ee8efc4b",
+        "text": "[[youtube videos black dyke band]]"
+      },
+      "after": "de92ab16ad12f2b8",
+      "date": 1505135771896
+    },
+    {
+      "type": "edit",
+      "id": "de92ab16ad12f2b8",
+      "item": {
+        "type": "paragraph",
+        "id": "de92ab16ad12f2b8",
+        "text": " The band - currently Champions of Yorkshire."
+      },
+      "date": 1505913719342
+    }
+  ]
+}

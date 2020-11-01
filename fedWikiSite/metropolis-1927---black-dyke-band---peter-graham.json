@@ -1,0 +1,192 @@
+{
+  "title": "Metropolis 1927 - Black Dyke Band - Peter Graham",
+  "story": [
+    {
+      "type": "video",
+      "id": "c9a478c50803b3ff",
+      "text": "YOUTUBE UmQ3uLadM-w\nMetropolis 1927 - Peter Graham"
+    },
+    {
+      "type": "paragraph",
+      "id": "48121cbc4e4535af",
+      "text": "The Black Dyke Band perform \"Metropolis 1927\" by Peter Graham at the New York Staff Band's 129th annual festival held on March 19, 2016 at the Centennial Memorial Temple in New York City. "
+    },
+    {
+      "type": "paragraph",
+      "id": "93c95e7f0aecb84e",
+      "text": "Fritz Lang's 1927 science fiction epic Metropolis is considered to be a masterpiece of cinematic vision and a high point of German Expressionist filmmaking. "
+    },
+    {
+      "type": "paragraph",
+      "id": "941561d62ae429ec",
+      "text": "Set in a future dystopian world the film introduces the viewer to two contrasting communities living in the vast city of Metropolis. "
+    },
+    {
+      "type": "paragraph",
+      "id": "969116fae097cc71",
+      "text": "Those above ground live a life of privilege and pleasure serviced by the underground-dwelling drone workers whose role is to maintain and operate the banks of machines which provide the city's power. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0fbb700c1f2a4dc4",
+      "text": "Lang's film, which can be considered a type of 20th century morality play, draws upon a range of themes and influences from Marxist ideals and social satire to overt religious symbolism. "
+    },
+    {
+      "type": "paragraph",
+      "id": "56bc29edbb029599",
+      "text": "The music does not attempt to precise the plot, such as it is, but simply reflects my musical responses to Lang's noirish visual style and set designs – the brooding machine rooms, the decadent nightclubs, the gothic cathedral and so on – paradoxically a world of terrifying beauty. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e5ca609eccb046c2",
+      "text": "Metropolis 1927 was commissioned by Bramwell Tovey and The National Youth Brass Band of Great Britain with funds provided by The Arts Council of England. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ac6a36c4f17463da",
+      "text": "The first performances took place in the Winter Gardens, Weston-super-Mare on Saturday 19th April and in the Cheltenham Town Hall on Sunday 20th April 2014. "
+    },
+    {
+      "type": "paragraph",
+      "id": "cabd4bd71d82f6c6",
+      "text": "This revised version was premiered by The Black Dyke Band, conductor Nicholas Childs, at the 38th European Brass Band Championships in the Konzerthaus Freiburg, Germany, on Saturday 2 May 2015. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Metropolis 1927 - Black Dyke Band - Peter Graham",
+        "story": []
+      },
+      "date": 1505138881879
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9a478c50803b3ff"
+      },
+      "id": "c9a478c50803b3ff",
+      "type": "add",
+      "date": 1505138893703
+    },
+    {
+      "type": "edit",
+      "id": "c9a478c50803b3ff",
+      "item": {
+        "type": "video",
+        "id": "c9a478c50803b3ff",
+        "text": "YOUTUBE UmQ3uLadM-w\nMetropolis 1927 - Peter Graham"
+      },
+      "date": 1505138946619
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48121cbc4e4535af"
+      },
+      "id": "48121cbc4e4535af",
+      "type": "add",
+      "after": "c9a478c50803b3ff",
+      "date": 1505138997019
+    },
+    {
+      "type": "edit",
+      "id": "48121cbc4e4535af",
+      "item": {
+        "type": "paragraph",
+        "id": "48121cbc4e4535af",
+        "text": "The Black Dyke Band perform \"Metropolis 1927\" by Peter Graham at the New York Staff Band's 129th annual festival held on March 19, 2016 at the Centennial Memorial Temple in New York City. "
+      },
+      "date": 1505139017785
+    },
+    {
+      "type": "add",
+      "id": "93c95e7f0aecb84e",
+      "item": {
+        "type": "paragraph",
+        "id": "93c95e7f0aecb84e",
+        "text": "Fritz Lang's 1927 science fiction epic Metropolis is considered to be a masterpiece of cinematic vision and a high point of German Expressionist filmmaking. "
+      },
+      "after": "48121cbc4e4535af",
+      "date": 1505139031041
+    },
+    {
+      "type": "add",
+      "id": "941561d62ae429ec",
+      "item": {
+        "type": "paragraph",
+        "id": "941561d62ae429ec",
+        "text": "Set in a future dystopian world the film introduces the viewer to two contrasting communities living in the vast city of Metropolis. "
+      },
+      "after": "93c95e7f0aecb84e",
+      "date": 1505139043615
+    },
+    {
+      "type": "add",
+      "id": "969116fae097cc71",
+      "item": {
+        "type": "paragraph",
+        "id": "969116fae097cc71",
+        "text": "Those above ground live a life of privilege and pleasure serviced by the underground-dwelling drone workers whose role is to maintain and operate the banks of machines which provide the city's power. "
+      },
+      "after": "941561d62ae429ec",
+      "date": 1505139055792
+    },
+    {
+      "type": "add",
+      "id": "0fbb700c1f2a4dc4",
+      "item": {
+        "type": "paragraph",
+        "id": "0fbb700c1f2a4dc4",
+        "text": "Lang's film, which can be considered a type of 20th century morality play, draws upon a range of themes and influences from Marxist ideals and social satire to overt religious symbolism. "
+      },
+      "after": "969116fae097cc71",
+      "date": 1505139065926
+    },
+    {
+      "type": "add",
+      "id": "56bc29edbb029599",
+      "item": {
+        "type": "paragraph",
+        "id": "56bc29edbb029599",
+        "text": "The music does not attempt to precise the plot, such as it is, but simply reflects my musical responses to Lang's noirish visual style and set designs – the brooding machine rooms, the decadent nightclubs, the gothic cathedral and so on – paradoxically a world of terrifying beauty. "
+      },
+      "after": "0fbb700c1f2a4dc4",
+      "date": 1505139084961
+    },
+    {
+      "type": "add",
+      "id": "e5ca609eccb046c2",
+      "item": {
+        "type": "paragraph",
+        "id": "e5ca609eccb046c2",
+        "text": "Metropolis 1927 was commissioned by Bramwell Tovey and The National Youth Brass Band of Great Britain with funds provided by The Arts Council of England. "
+      },
+      "after": "56bc29edbb029599",
+      "date": 1505139102056
+    },
+    {
+      "type": "add",
+      "id": "ac6a36c4f17463da",
+      "item": {
+        "type": "paragraph",
+        "id": "ac6a36c4f17463da",
+        "text": "The first performances took place in the Winter Gardens, Weston-super-Mare on Saturday 19th April and in the Cheltenham Town Hall on Sunday 20th April 2014. "
+      },
+      "after": "e5ca609eccb046c2",
+      "date": 1505139111775
+    },
+    {
+      "type": "add",
+      "id": "cabd4bd71d82f6c6",
+      "item": {
+        "type": "paragraph",
+        "id": "cabd4bd71d82f6c6",
+        "text": "This revised version was premiered by The Black Dyke Band, conductor Nicholas Childs, at the 38th European Brass Band Championships in the Konzerthaus Freiburg, Germany, on Saturday 2 May 2015. "
+      },
+      "after": "ac6a36c4f17463da",
+      "date": 1505139124234
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Flowers",
+  "story": [
+    {
+      "type": "video",
+      "id": "da6cb37d599ff9e0",
+      "text": "YOUTUBE UfLeAI2Wj1w\n..."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Flowers",
+        "story": []
+      },
+      "date": 1505765338408
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "da6cb37d599ff9e0"
+      },
+      "id": "da6cb37d599ff9e0",
+      "type": "add",
+      "date": 1582160166726
+    },
+    {
+      "type": "edit",
+      "id": "da6cb37d599ff9e0",
+      "item": {
+        "type": "video",
+        "id": "da6cb37d599ff9e0",
+        "text": "YOUTUBE UfLeAI2Wj1w\n..."
+      },
+      "date": 1582160184307
+    }
+  ]
+}

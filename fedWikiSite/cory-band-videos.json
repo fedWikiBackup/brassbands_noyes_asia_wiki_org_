@@ -1,0 +1,74 @@
+{
+  "title": "Cory Band Videos",
+  "story": [
+    {
+      "type": "video",
+      "id": "6a86dfe532d2cd35",
+      "text": "YOUTUBE hbFLe8VorHE\nDavid Childs Conducting"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Cory Band Videos",
+        "story": []
+      },
+      "date": 1505912546395
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77b728de2a618373"
+      },
+      "id": "77b728de2a618373",
+      "type": "add",
+      "date": 1505912549733
+    },
+    {
+      "type": "edit",
+      "id": "77b728de2a618373",
+      "item": {
+        "type": "paragraph",
+        "id": "77b728de2a618373",
+        "text": "["
+      },
+      "date": 1505912557548
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a86dfe532d2cd35"
+      },
+      "id": "6a86dfe532d2cd35",
+      "type": "add",
+      "after": "77b728de2a618373",
+      "date": 1505912559374
+    },
+    {
+      "type": "edit",
+      "id": "6a86dfe532d2cd35",
+      "item": {
+        "type": "video",
+        "id": "6a86dfe532d2cd35",
+        "text": "YOUTUBE"
+      },
+      "date": 1505912578361
+    },
+    {
+      "type": "edit",
+      "id": "6a86dfe532d2cd35",
+      "item": {
+        "type": "video",
+        "id": "6a86dfe532d2cd35",
+        "text": "YOUTUBE hbFLe8VorHE\nDavid Childs Conducting"
+      },
+      "date": 1505912631776
+    },
+    {
+      "type": "remove",
+      "id": "77b728de2a618373",
+      "date": 1505912637823
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Major Peter Parkes",
+  "story": [
+    {
+      "type": "factory",
+      "id": "6ab64b3ee087b127"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Major Peter Parkes",
+        "story": []
+      },
+      "date": 1579947356477
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6ab64b3ee087b127"
+      },
+      "id": "6ab64b3ee087b127",
+      "type": "add",
+      "date": 1579947367987
+    }
+  ]
+}

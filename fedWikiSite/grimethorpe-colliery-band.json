@@ -1,0 +1,39 @@
+{
+  "title": "Grimethorpe Colliery Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "23445d6f4ca1c28e",
+      "text": "[[MacArthur Park - Grimethorpe Colliery Band]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Grimethorpe Colliery Band",
+        "story": []
+      },
+      "date": 1505142120896
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23445d6f4ca1c28e"
+      },
+      "id": "23445d6f4ca1c28e",
+      "type": "add",
+      "date": 1505142125430
+    },
+    {
+      "type": "edit",
+      "id": "23445d6f4ca1c28e",
+      "item": {
+        "type": "paragraph",
+        "id": "23445d6f4ca1c28e",
+        "text": "[[MacArthur Park - Grimethorpe Colliery Band]]"
+      },
+      "date": 1505142175315
+    }
+  ]
+}

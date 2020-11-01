@@ -1,0 +1,59 @@
+{
+  "title": "The International Staff Band of The Salvation Army",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d5b7efd4aef4ed96",
+      "text": "[[Fire in the Blood - International Staff Band of The Salvation Army - Paul Lovatt-Cooper]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The International Staff Band of The Salvation Army",
+        "story": []
+      },
+      "date": 1505140966116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d5b7efd4aef4ed96"
+      },
+      "id": "d5b7efd4aef4ed96",
+      "type": "add",
+      "date": 1505140968872
+    },
+    {
+      "type": "edit",
+      "id": "d5b7efd4aef4ed96",
+      "item": {
+        "type": "paragraph",
+        "id": "d5b7efd4aef4ed96",
+        "text": "[[Fire in the Blood - Interanational Staff Band of The Salvation Army - Paul Lovatt-Coop]]r"
+      },
+      "date": 1505141034493
+    },
+    {
+      "type": "edit",
+      "id": "d5b7efd4aef4ed96",
+      "item": {
+        "type": "paragraph",
+        "id": "d5b7efd4aef4ed96",
+        "text": "[[Fire in the Blood - Interanational Staff Band of The Salvation Army - Paul Lovatt-Cooper]]"
+      },
+      "date": 1505141068594
+    },
+    {
+      "type": "edit",
+      "id": "d5b7efd4aef4ed96",
+      "item": {
+        "type": "paragraph",
+        "id": "d5b7efd4aef4ed96",
+        "text": "[[Fire in the Blood - International Staff Band of The Salvation Army - Paul Lovatt-Cooper]]"
+      },
+      "date": 1505141094047
+    }
+  ]
+}

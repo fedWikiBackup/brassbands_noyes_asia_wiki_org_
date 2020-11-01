@@ -1,0 +1,40 @@
+{
+  "title": "Horizons - Black Dyke Band - Paul Lovatt-Cooper",
+  "story": [
+    {
+      "type": "video",
+      "id": "0aae6d94be8359fc",
+      "text": "YOUTUBE Upog5EgM84A\nHorizons - Paul Lovatt-Cooper"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Horizons - Black Dyke Band - Paul Lovatt-Cooper",
+        "story": []
+      },
+      "date": 1505140099832
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "0aae6d94be8359fc",
+        "text": "YOUTUBE Upog5EgM84A"
+      },
+      "id": "0aae6d94be8359fc",
+      "date": 1505140108637
+    },
+    {
+      "type": "edit",
+      "id": "0aae6d94be8359fc",
+      "item": {
+        "type": "video",
+        "id": "0aae6d94be8359fc",
+        "text": "YOUTUBE Upog5EgM84A\nHorizons - Paul Lovatt-Cooper"
+      },
+      "date": 1505140159376
+    }
+  ]
+}

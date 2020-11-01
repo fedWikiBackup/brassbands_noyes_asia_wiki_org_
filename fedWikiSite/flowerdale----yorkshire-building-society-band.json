@@ -1,0 +1,69 @@
+{
+  "title": "Flowerdale -- Yorkshire Building Society Band",
+  "story": [
+    {
+      "type": "video",
+      "id": "bad07ea49a64eb3d",
+      "text": "YOUTUBE UpWPck3gZxU\nFlowerdale - "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Flowerdale -- Yorkshire Building Society Band",
+        "story": []
+      },
+      "date": 1505141477211
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bad07ea49a64eb3d"
+      },
+      "id": "bad07ea49a64eb3d",
+      "type": "add",
+      "date": 1505141479487
+    },
+    {
+      "type": "edit",
+      "id": "bad07ea49a64eb3d",
+      "item": {
+        "type": "video",
+        "id": "bad07ea49a64eb3d",
+        "text": "YOUTUBE "
+      },
+      "date": 1505141500619
+    },
+    {
+      "type": "edit",
+      "id": "bad07ea49a64eb3d",
+      "item": {
+        "type": "video",
+        "id": "bad07ea49a64eb3d",
+        "text": "YOUTUBE UpWPck3gZxU&\n"
+      },
+      "date": 1505141558395
+    },
+    {
+      "type": "edit",
+      "id": "bad07ea49a64eb3d",
+      "item": {
+        "type": "video",
+        "id": "bad07ea49a64eb3d",
+        "text": "YOUTUBE UpWPck3gZxU"
+      },
+      "date": 1505141700763
+    },
+    {
+      "type": "edit",
+      "id": "bad07ea49a64eb3d",
+      "item": {
+        "type": "video",
+        "id": "bad07ea49a64eb3d",
+        "text": "YOUTUBE UpWPck3gZxU\nFlowerdale - "
+      },
+      "date": 1505141735368
+    }
+  ]
+}

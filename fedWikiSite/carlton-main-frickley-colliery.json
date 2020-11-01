@@ -1,0 +1,28 @@
+{
+  "title": "Carlton Main Frickley Colliery",
+  "story": [
+    {
+      "type": "factory",
+      "id": "93de8e9e7e958047"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Carlton Main Frickley Colliery",
+        "story": []
+      },
+      "date": 1505765378034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "93de8e9e7e958047"
+      },
+      "id": "93de8e9e7e958047",
+      "type": "add",
+      "date": 1582158689551
+    }
+  ]
+}

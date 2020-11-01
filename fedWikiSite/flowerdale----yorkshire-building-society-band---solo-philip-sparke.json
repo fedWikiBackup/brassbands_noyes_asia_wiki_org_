@@ -1,0 +1,59 @@
+{
+  "title": "Flowerdale -- Yorkshire Building Society Band - solo Philip Sparke",
+  "story": [
+    {
+      "type": "video",
+      "id": "40f7087125967cd6",
+      "text": "YOUTUBE SGEAP662DCw\nSoprano Cornet - Peter Roberts"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Flowerdale -- Yorkshire Building Society Band - solo Philip Sparke",
+        "story": []
+      },
+      "date": 1505142848520
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40f7087125967cd6"
+      },
+      "id": "40f7087125967cd6",
+      "type": "add",
+      "date": 1505142850805
+    },
+    {
+      "type": "edit",
+      "id": "40f7087125967cd6",
+      "item": {
+        "type": "video",
+        "id": "40f7087125967cd6",
+        "text": "YOUTUBE"
+      },
+      "date": 1505142867053
+    },
+    {
+      "type": "edit",
+      "id": "40f7087125967cd6",
+      "item": {
+        "type": "video",
+        "id": "40f7087125967cd6",
+        "text": "YOUTUBE SGEAP662DCw"
+      },
+      "date": 1505142896769
+    },
+    {
+      "type": "edit",
+      "id": "40f7087125967cd6",
+      "item": {
+        "type": "video",
+        "id": "40f7087125967cd6",
+        "text": "YOUTUBE SGEAP662DCw\nSoprano Cornet - Peter Roberts"
+      },
+      "date": 1505143023371
+    }
+  ]
+}

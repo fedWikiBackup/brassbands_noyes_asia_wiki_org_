@@ -1,0 +1,79 @@
+{
+  "title": "The Land of the Long White Cloud",
+  "story": [
+    {
+      "type": "video",
+      "id": "be4db5b3edc031ab",
+      "text": "YOUTUBE VAE-u2lwSH0\nBrassband Scaldis o.l.v. Raf Van Looveren Keuzwerk/Own Choice Piece: The Land of the Long White Cloud - Philip Sparke"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Land of the Long White Cloud",
+        "story": []
+      },
+      "date": 1505143973302
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be4db5b3edc031ab"
+      },
+      "id": "be4db5b3edc031ab",
+      "type": "add",
+      "date": 1505143975367
+    },
+    {
+      "type": "edit",
+      "id": "be4db5b3edc031ab",
+      "item": {
+        "type": "video",
+        "id": "be4db5b3edc031ab",
+        "text": "YOUTUBE"
+      },
+      "date": 1505143992406
+    },
+    {
+      "type": "edit",
+      "id": "be4db5b3edc031ab",
+      "item": {
+        "type": "video",
+        "id": "be4db5b3edc031ab",
+        "text": "YOUTUBE VAE-u2lwSH0"
+      },
+      "date": 1505144007693
+    },
+    {
+      "type": "edit",
+      "id": "be4db5b3edc031ab",
+      "item": {
+        "type": "video",
+        "id": "be4db5b3edc031ab",
+        "text": "YOUTUBE VAE-u2lwSH0\n"
+      },
+      "date": 1505144029093
+    },
+    {
+      "type": "edit",
+      "id": "be4db5b3edc031ab",
+      "item": {
+        "type": "video",
+        "id": "be4db5b3edc031ab",
+        "text": "YOUTUBE \nBrassband Scaldis o.l.v. Raf Van Looveren Keuzwerk/Own Choice Piece: The Land of the Long White Cloud - Philip Sparke"
+      },
+      "date": 1505144118172
+    },
+    {
+      "type": "edit",
+      "id": "be4db5b3edc031ab",
+      "item": {
+        "type": "video",
+        "id": "be4db5b3edc031ab",
+        "text": "YOUTUBE VAE-u2lwSH0\nBrassband Scaldis o.l.v. Raf Van Looveren Keuzwerk/Own Choice Piece: The Land of the Long White Cloud - Philip Sparke"
+      },
+      "date": 1505144133518
+    }
+  ]
+}

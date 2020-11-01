@@ -1,0 +1,94 @@
+{
+  "title": "Recent Sites 20170920",
+  "story": [
+    {
+      "type": "roster",
+      "id": "1e108bbc1c66832d",
+      "text": "recentSites\nfound.ward.bay.wiki.org\nsensors.c2.com\nasia.wiki.org\nfarm.fed.wiki.org\nsearch.fed.wiki.org:3030\nward.asia.wiki.org\nhome.ward.asia.wiki.org\njon.fed.wiki\nbrassbands.noyes.asia.wiki.org\ndavidbollier.fed.wiki\npages.sites.noyes.asia.wiki.org\nmakecommoningwork.fed.wiki\ncontext.asia.wiki.org\nbestpractices.fed.wiki.org\nsandbox.fed.wiki.org\nwww.davidbollier.fed.wiki\nddd.ward.wiki.org\nwiki.dbbs.co\nbegin.wiki.dbbs.co\ncode.fed.wiki.org\nalbion.andreworford.com\nandreworford.com\nward.bay.wiki.org"
+    },
+    {
+      "type": "activity",
+      "id": "e9e9f102158e1382",
+      "text": "ROSTER recentSites"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Recent Sites 20170920",
+        "story": []
+      },
+      "date": 1505913231671
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e108bbc1c66832d"
+      },
+      "id": "1e108bbc1c66832d",
+      "type": "add",
+      "date": 1505913244416
+    },
+    {
+      "type": "edit",
+      "id": "1e108bbc1c66832d",
+      "item": {
+        "type": "roster",
+        "id": "1e108bbc1c66832d",
+        "text": "recentSites\nfound.ward.bay.wiki.org\nsensors.c2.com\nasia.wiki.org\nfarm.fed.wiki.org\nsearch.fed.wiki.org:3030\nward.asia.wiki.org\nhome.ward.asia.wiki.org\njon.fed.wiki\nstart.fed.wiki\ngreat.start.fed.wiki\nwalt.tries.fed.wiki\nbrassbands.noyes.asia.wiki.org\ndavidbollier.fed.wiki\npages.sites.noyes.asia.wiki.org\nmakecommoningwork.fed.wiki\ncontext.asia.wiki.org\nbestpractices.fed.wiki.org\nsandbox.fed.wiki.org\nwww.makecommoningwork.fed.wiki\nwww.davidbollier.fed.wiki\nddd.ward.wiki.org\nwiki.dbbs.co\nbegin.wiki.dbbs.co\ncode.fed.wiki.org\nalbion.andreworford.com\nandreworford.com\nward.bay.wiki.org"
+      },
+      "date": 1505913268683
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382"
+      },
+      "after": "1e108bbc1c66832d",
+      "id": "e9e9f102158e1382",
+      "date": 1505913284005
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER recantSites"
+      },
+      "date": 1505913322967
+    },
+    {
+      "type": "edit",
+      "id": "1e108bbc1c66832d",
+      "item": {
+        "type": "roster",
+        "id": "1e108bbc1c66832d",
+        "text": "recentSites\nfound.ward.bay.wiki.org\nsensors.c2.com\nasia.wiki.org\nfarm.fed.wiki.org\nsearch.fed.wiki.org:3030\nward.asia.wiki.org\nhome.ward.asia.wiki.org\njon.fed.wiki\nbrassbands.noyes.asia.wiki.org\ndavidbollier.fed.wiki\npages.sites.noyes.asia.wiki.org\nmakecommoningwork.fed.wiki\ncontext.asia.wiki.org\nbestpractices.fed.wiki.org\nsandbox.fed.wiki.org\nwww.makecommoningwork.fed.wiki\nwww.davidbollier.fed.wiki\nddd.ward.wiki.org\nwiki.dbbs.co\nbegin.wiki.dbbs.co\ncode.fed.wiki.org\nalbion.andreworford.com\nandreworford.com\nward.bay.wiki.org"
+      },
+      "date": 1505913352299
+    },
+    {
+      "type": "edit",
+      "id": "1e108bbc1c66832d",
+      "item": {
+        "type": "roster",
+        "id": "1e108bbc1c66832d",
+        "text": "recentSites\nfound.ward.bay.wiki.org\nsensors.c2.com\nasia.wiki.org\nfarm.fed.wiki.org\nsearch.fed.wiki.org:3030\nward.asia.wiki.org\nhome.ward.asia.wiki.org\njon.fed.wiki\nbrassbands.noyes.asia.wiki.org\ndavidbollier.fed.wiki\npages.sites.noyes.asia.wiki.org\nmakecommoningwork.fed.wiki\ncontext.asia.wiki.org\nbestpractices.fed.wiki.org\nsandbox.fed.wiki.org\nwww.davidbollier.fed.wiki\nddd.ward.wiki.org\nwiki.dbbs.co\nbegin.wiki.dbbs.co\ncode.fed.wiki.org\nalbion.andreworford.com\nandreworford.com\nward.bay.wiki.org"
+      },
+      "date": 1505913381473
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER recentSites"
+      },
+      "date": 1505913433620
+    }
+  ]
+}
